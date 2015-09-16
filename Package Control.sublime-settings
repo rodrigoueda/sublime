@@ -1,0 +1,47 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"ApacheConf.tmLanguage",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"CodeIgniter Snippets",
+		"CodeIgniter Utilities",
+		"Color Highlighter",
+		"ColorPicker",
+		"Column Select",
+		"CSS3",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Emmet Css Snippets",
+		"ExtendedTabSwitcher",
+		"Git Conflict Resolver",
+		"GitGutter",
+		"GotoDocumentation",
+		"jQuery",
+		"jQuery Snippets pack",
+		"LESS",
+		"Material Theme",
+		"Package Control",
+		"PgSQL",
+		"Phpcs",
+		"Postgres PL pgSQL",
+		"PostgreSQL Syntax Highlighting",
+		"Predawn",
+		"PxToEm",
+		"SideBarEnhancements",
+		"Sublime Bookmarks",
+		"SublimeCodeIntel",
+		"sublimelint",
+		"Theme - Spacegray",
+		"ToggleQuotes",
+		"WakaTime",
+		"Xdebug Client"
+	]
+}

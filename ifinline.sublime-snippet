@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+(${1:codition}) ? '${2:true}' : '${3:false}';
+]]></content>
+    <tabTrigger>?str</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
+
+<snippet>
+    <content><![CDATA[
+(${1:codition}) ? ${2:true} : ${3:false};
+]]></content>
+    <tabTrigger>?int</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

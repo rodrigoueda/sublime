@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+        <![CDATA[Hello, var_dump(${1:this});]]>
+    </content>
+    <tabTrigger>
+        vd
+    </tabTrigger>
+</snippet>

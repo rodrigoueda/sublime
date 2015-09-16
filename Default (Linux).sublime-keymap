@@ -1,0 +1,24 @@
+[
+    { "keys": ["ctrl+shift+'"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+    { "keys": ["ctrl+1"], "command": "toggle_comment", "args": { "block": false } },
+    { "keys": ["ctrl+shift+1"], "command": "toggle_comment", "args": { "block": true } },
+    { "keys": ["ctrl+shift+s"], "command": "save_all" },
+    { "keys": ["shift+tab"], "command": "unindent" },
+    { "keys": ["ctrl+shift+up"], "command": "swap_line_up" },
+    { "keys": ["ctrl+shift+down"], "command": "swap_line_down" },
+    { "keys": ["ctrl+y"], "command": "redo" },
+    { "keys": ["f8"], "command": "xdebug_breakpoint"},
+    { "keys": ["shift+f8"], "command": "xdebug_conditional_breakpoint"},
+    { "keys": ["ctrl+f5"], "command": "xdebug_continue", "args": {"command": "run"}},
+    { "keys": ["ctrl+f6"], "command": "xdebug_continue", "args": {"command": "step_over"}},
+    { "keys": ["ctrl+f7"], "command": "xdebug_continue", "args": {"command": "step_into"}},
+    { "keys": ["ctrl+f8"], "command": "xdebug_continue", "args": {"command": "step_out"}},
+    { "keys": ["ctrl+shift+f9"], "command": "xdebug_session_start"},
+    { "keys": ["ctrl+shift+f10"], "command": "xdebug_session_stop"},
+    { "keys": ["ctrl+shift+q"], "command": "toggle_quotes"},
+    { "keys": ["shift+tab"], "command": "prev_field", 
+        "context":[
+        { "key": "has_prev_field", "operator": "equal", "operand": true }
+        ]
+    },
+]

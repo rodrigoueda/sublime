@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"fade_fold_buttons": false,
+	"font_face": "Anonymous Pro",
+	"font_options":
+	[
+		"bold",
+		"subpixel_antialias"
+	],
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_to_bracket": true,
+	"spell_check": false,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

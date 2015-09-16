@@ -1,0 +1,25 @@
+<snippet>
+    <content><![CDATA[
+swal({   
+    title: "${1:titulo}",   
+    text: "${2:conteudo}",   
+    type: "[warning|error|success|info]",   
+    showCancelButton: true,   
+    confirmButtonColor: "${2:cor}",   
+    confirmButtonText: "Confirmar",   
+    cancelButtonText: "Cancelar",   
+    closeOnConfirm: false,   
+    closeOnCancel: false 
+}, 
+function(isConfirm) {   
+    if (isConfirm) {     
+           
+    } 
+    else {     
+         
+    } 
+});
+]]></content>
+    <tabTrigger>swal</tabTrigger>
+    <scope>*.js</scope>
+</snippet>

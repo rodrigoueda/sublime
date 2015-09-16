@@ -1,0 +1,764 @@
+[09/14/2015 03:14:46PM] INFO - ==== Loading 'Xdebug Client.sublime-package' package ====
+[09/14/2015 03:15:45PM] WARNING - Could not import subprocess32 module, falling back to subprocess module
+[09/14/2015 03:15:45PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/libraries/Pontoiluminacao.php' lang: PHP
+[09/14/2015 03:16:21PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/libraries/Pontoiluminacao.php' lang: PHP
+[09/14/2015 03:18:00PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/libraries/Pontoiluminacao.php' lang: PHP
+[09/14/2015 03:26:18PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/libraries/Pontoiluminacao.php' lang: PHP
+[09/14/2015 03:26:26PM] INFO - eval 'pub' at Pontoiluminacao.php#112  <Trigger 'php-complete-functions' at 4800>
+[09/14/2015 03:26:26PM] DEBUG - ext conflict: '.django.html' for <Django XHTML Template LangInfo> conflicts with the same for <Django HTML Template LangInfo> (<Django XHTML Template LangInfo> wins)
+[09/14/2015 03:26:26PM] DEBUG - ext conflict: '.django.html' for <Django XML Template LangInfo> conflicts with the same for <Django XHTML Template LangInfo> (<Django XML Template LangInfo> wins)
+[09/14/2015 03:26:26PM] DEBUG - ext conflict: '.js' for <JavaScript LangInfo> conflicts with the same for <Node.js LangInfo> (<JavaScript LangInfo> wins)
+[09/14/2015 03:26:26PM] DEBUG - ext conflict: '.pb' for <PureBasic LangInfo> conflicts with the same for <PowerBasic LangInfo> (<PureBasic LangInfo> wins)
+[09/14/2015 03:26:26PM] DEBUG - ext conflict: '.html' for <HTML5 LangInfo> conflicts with the same for <HTML LangInfo> (<HTML5 LangInfo> wins)
+[09/14/2015 03:26:26PM] DEBUG - ext conflict: '.htm' for <HTML5 LangInfo> conflicts with the same for <HTML LangInfo> (<HTML5 LangInfo> wins)
+[09/14/2015 03:26:26PM] DEBUG - ext conflict: '.django.html' for <Django Text Template LangInfo> conflicts with the same for <Django XML Template LangInfo> (<Django Text Template LangInfo> wins)
+[09/14/2015 03:26:26PM] DEBUG - ext update: ext: .py, <Python LangInfo> is *not* a minor variant of <Python3 LangInfo>
+[09/14/2015 03:26:26PM] DEBUG - ext conflict: ext:.py, replace variant <Python3 LangInfo> with <Python LangInfo>
+[09/14/2015 03:26:26PM] DEBUG - ext update: ext: .pyw, <Python LangInfo> is *not* a minor variant of <Python3 LangInfo>
+[09/14/2015 03:26:26PM] DEBUG - ext conflict: ext:.pyw, replace variant <Python3 LangInfo> with <Python LangInfo>
+[09/14/2015 03:26:26PM] DEBUG - ext conflict: '.po' for <GetText LangInfo> conflicts with the same for <PO LangInfo> (<GetText LangInfo> wins)
+[09/14/2015 03:26:26PM] DEBUG - ext conflict: '.xs' for <C++ LangInfo> conflicts with the same for <C LangInfo> (<C++ LangInfo> wins)
+[09/14/2015 03:26:26PM] DEBUG - ext conflict: '.django.html' for <Django Template LangInfo> conflicts with the same for <Django Text Template LangInfo> (<Django Template LangInfo> wins)
+[09/14/2015 03:26:26PM] DEBUG - ext conflict: ext:.sql, replace variant <MySQL LangInfo> with <SQL LangInfo>
+[09/14/2015 03:26:26PM] INFO - function_names_from_scope_starting_with_expr:: expr: 'pub', scoperef: (<Element 'scope' at 0xb28c9f44>, ['Pontoiluminacao', '_tabComponentes']) for ('locals', 'namespace', 'globals', 'imports')
+[09/14/2015 03:26:26PM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[09/14/2015 03:26:26PM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 03:26:28PM] WARNING - File '/var/www/sigiprc/application/logs/log-2015-09-02.php' has size greater than 1MB (2490252)
+[09/14/2015 03:26:28PM] WARNING - File '/var/www/sigiprc/application/logs/log-2015-08-18.php' has size greater than 1MB (4632522)
+[09/14/2015 03:26:28PM] WARNING - File '/var/www/sigiprc/application/logs/log-2015-08-19.php' has size greater than 1MB (1698674)
+[09/14/2015 03:26:28PM] WARNING - File '/var/www/sigiprc/application/logs/log-2015-07-13.php' has size greater than 1MB (2653101)
+[09/14/2015 03:26:28PM] WARNING - File '/var/www/sigiprc/application/logs/log-2015-08-05.php' has size greater than 1MB (5941043)
+[09/14/2015 03:26:28PM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'pub', scoperef: (<Element 'scope' at 0xb28c9f44>, ['Pontoiluminacao', '_tabComponentes']) for ('globals', 'imports', 'builtins')
+[09/14/2015 03:26:28PM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 03:26:28PM] INFO - class_names_from_scope_starting_with_expr:: expr: 'pub', scoperef: (<Element 'scope' at 0xb28c9f44>, ['Pontoiluminacao', '_tabComponentes']) for ('locals', 'namespace', 'globals', 'imports')
+[09/14/2015 03:26:28PM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[09/14/2015 03:26:28PM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 03:26:28PM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'pub', scoperef: (<Element 'scope' at 0xb28c9f44>, ['Pontoiluminacao', '_tabComponentes']) for ('namespace', 'globals')
+[09/14/2015 03:26:28PM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 03:26:28PM] INFO -     cplns: [('keyword', 'public')]
+[09/14/2015 03:26:28PM] INFO - done eval: success
+[09/14/2015 03:26:28PM] INFO - Autocomplete called (PHP) [cplns]
+[09/14/2015 03:41:23PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/controllers/Ponto_iluminacao.php' lang: PHP
+[09/14/2015 03:42:08PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/controllers/Ponto_iluminacao.php' lang: PHP
+[09/14/2015 03:43:30PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/controllers/Ponto_iluminacao.php' lang: PHP
+[09/14/2015 03:43:41PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/controllers/Ponto_iluminacao.php' lang: PHP
+[09/14/2015 03:44:29PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/controllers/Ponto_iluminacao.php' lang: PHP
+[09/14/2015 03:44:32PM] INFO - eval 'Pontoiluminacao.tabComponentes' at Ponto_iluminacao.php#474  <Trigger 'php-calltip-call-signature' at 21100>
+[09/14/2015 03:44:32PM] INFO - _hit_from_citdl:: expr: 'Pontoiluminacao.tabComponentes', scoperef: (<Element 'scope' at 0xb21d733c>, ['Ponto_iluminacao', 'getTabComponentesByID'])
+[09/14/2015 03:44:32PM] INFO - _hit_from_citdl:: expr tokens: ['Pontoiluminacao', 'tabComponentes']
+[09/14/2015 03:44:32PM] INFO - _hits_from_first_part:: find 'Pontoiluminacao ...' starting at (<Element 'scope' at 0xb21d733c>, ['Ponto_iluminacao', 'getTabComponentesByID']):
+[09/14/2015 03:44:32PM] INFO - _hits_from_first_part:: scoperef now (<Element 'scope' at 0xb21d733c>, ['Ponto_iluminacao', 'getTabComponentesByID']):
+[09/14/2015 03:44:32PM] INFO - _hits_from_first_part:: checking namespace aliases
+[09/14/2015 03:44:32PM] INFO - _hits_from_first_part:: pt3: is 'Pontoiluminacao' accessible on (<Element 'scope' at 0xb21d733c>, ['Ponto_iluminacao', 'getTabComponentesByID'])? no
+[09/14/2015 03:44:32PM] INFO - _hits_from_first_part:: scoperef now (<Element 'scope' at 0xb21d733c>, []):
+[09/14/2015 03:44:32PM] INFO - _hits_from_first_part:: checking namespace aliases
+[09/14/2015 03:44:32PM] INFO - _hits_from_first_part:: pt3: is 'Pontoiluminacao' accessible on (<Element 'scope' at 0xb21d733c>, [])? no
+[09/14/2015 03:44:33PM] INFO - _hit_from_elem_imports:: trying import everything: tokens: ['Pontoiluminacao', 'tabComponentes']
+[09/14/2015 03:44:33PM] INFO - _hit_from_elem_imports:: trying with lpath: ('Pontoiluminacao', 'tabComponentes')
+[09/14/2015 03:44:33PM] INFO - _hit_from_elem_imports:: ie: lookup ('Pontoiluminacao', 'tabComponentes') in <PHP curdirlib> => []
+[09/14/2015 03:44:33PM] INFO - _hit_from_elem_imports:: ie: lookup ('Pontoiluminacao', 'tabComponentes') in <PHP extradirslib> => []
+[09/14/2015 03:44:33PM] INFO - _hit_from_elem_imports:: ie: lookup ('Pontoiluminacao', 'tabComponentes') in <PHP cataloglib: > => []
+[09/14/2015 03:44:33PM] INFO - _hit_from_elem_imports:: ie: lookup ('Pontoiluminacao', 'tabComponentes') in <php-5.4 stdlib> => []
+[09/14/2015 03:44:33PM] INFO - _hit_from_elem_imports:: ie: no matches found
+[09/14/2015 03:44:33PM] INFO - _hit_from_elem_imports:: trying with lpath: ('Pontoiluminacao',)
+[09/14/2015 03:44:33PM] INFO - _hit_from_elem_imports:: ie: lookup ('Pontoiluminacao',) in <PHP curdirlib> => []
+[09/14/2015 03:44:33PM] INFO - _hit_from_elem_imports:: ie: lookup ('Pontoiluminacao',) in <PHP extradirslib> => [(<Element 'scope' at 0xb235c56c>, (<Element 'scope' at 0xb235c534>, []))]
+[09/14/2015 03:44:33PM] INFO - _hit_from_elem_imports:: ie: matched ('Pontoiluminacao',) to <Element 'scope' at 0xb235c56c> in blob <Element 'scope' at 0xb235c534>
+[09/14/2015 03:44:33PM] INFO - _return_with_hit:: hit is okay: (<Element 'scope' at 0xb235c56c>, (<Element 'scope' at 0xb235c534>, []))
+[09/14/2015 03:44:33PM] INFO - _return_with_hit:: hit is okay: (<Element 'scope' at 0xb235c56c>, (<Element 'scope' at 0xb235c534>, []))
+[09/14/2015 03:44:33PM] INFO - _hits_from_first_part:: pt4: is 'Pontoiluminacao' accessible on (<Element 'scope' at 0xb21d733c>, [])? yes, imported: <Element 'scope' at 0xb235c56c>
+[09/14/2015 03:44:33PM] INFO - _hit_from_getattr:: resolve 'tabComponentes' on <Element 'scope' at 0xb235c56c> in (<Element 'scope' at 0xb235c534>, []):
+[09/14/2015 03:44:33PM] INFO - _hit_from_citdl:: found 'Pontoiluminacao.tabComponentes' => <Element 'scope' at 0xb235c56c> on (<Element 'scope' at 0xb235c534>, [])
+[09/14/2015 03:44:33PM] INFO - _calltip_from_class:: no ctor in class 'Pontoiluminacao'
+[09/14/2015 03:44:33PM] INFO -     calltips: ['Pontoiluminacao()']
+[09/14/2015 03:44:33PM] INFO - done eval: success
+[09/14/2015 03:44:33PM] INFO - Autocomplete called (PHP) [calltips]
+[09/14/2015 03:44:33PM] INFO - eval 'Pontoiluminacao.tabComponentes' at Ponto_iluminacao.php#474  <Trigger 'php-calltip-call-signature' at 21100>
+[09/14/2015 03:44:33PM] INFO - _hit_from_citdl:: expr: 'Pontoiluminacao.tabComponentes', scoperef: (<Element 'scope' at 0xb5fa4e64>, ['Ponto_iluminacao', 'getTabComponentesByID'])
+[09/14/2015 03:44:33PM] INFO - _hit_from_citdl:: expr tokens: ['Pontoiluminacao', 'tabComponentes']
+[09/14/2015 03:44:33PM] INFO - _hits_from_first_part:: find 'Pontoiluminacao ...' starting at (<Element 'scope' at 0xb5fa4e64>, ['Ponto_iluminacao', 'getTabComponentesByID']):
+[09/14/2015 03:44:33PM] INFO - _hits_from_first_part:: scoperef now (<Element 'scope' at 0xb5fa4e64>, ['Ponto_iluminacao', 'getTabComponentesByID']):
+[09/14/2015 03:44:33PM] INFO - _hits_from_first_part:: checking namespace aliases
+[09/14/2015 03:44:33PM] INFO - _hits_from_first_part:: pt3: is 'Pontoiluminacao' accessible on (<Element 'scope' at 0xb5fa4e64>, ['Ponto_iluminacao', 'getTabComponentesByID'])? no
+[09/14/2015 03:44:33PM] INFO - _hits_from_first_part:: scoperef now (<Element 'scope' at 0xb5fa4e64>, []):
+[09/14/2015 03:44:33PM] INFO - _hits_from_first_part:: checking namespace aliases
+[09/14/2015 03:44:33PM] INFO - _hits_from_first_part:: pt3: is 'Pontoiluminacao' accessible on (<Element 'scope' at 0xb5fa4e64>, [])? no
+[09/14/2015 03:44:33PM] INFO - _hit_from_elem_imports:: trying import everything: tokens: ['Pontoiluminacao', 'tabComponentes']
+[09/14/2015 03:44:33PM] INFO - _hit_from_elem_imports:: trying with lpath: ('Pontoiluminacao', 'tabComponentes')
+[09/14/2015 03:44:33PM] INFO - _hit_from_elem_imports:: ie: lookup ('Pontoiluminacao', 'tabComponentes') in <PHP curdirlib> => []
+[09/14/2015 03:44:33PM] INFO - _hit_from_elem_imports:: ie: lookup ('Pontoiluminacao', 'tabComponentes') in <PHP extradirslib> => []
+[09/14/2015 03:44:33PM] INFO - _hit_from_elem_imports:: ie: lookup ('Pontoiluminacao', 'tabComponentes') in <PHP cataloglib: > => []
+[09/14/2015 03:44:33PM] INFO - _hit_from_elem_imports:: ie: lookup ('Pontoiluminacao', 'tabComponentes') in <php-5.4 stdlib> => []
+[09/14/2015 03:44:33PM] INFO - _hit_from_elem_imports:: ie: no matches found
+[09/14/2015 03:44:33PM] INFO - _hit_from_elem_imports:: trying with lpath: ('Pontoiluminacao',)
+[09/14/2015 03:44:33PM] INFO - _hit_from_elem_imports:: ie: lookup ('Pontoiluminacao',) in <PHP curdirlib> => []
+[09/14/2015 03:44:33PM] INFO - _hit_from_elem_imports:: ie: lookup ('Pontoiluminacao',) in <PHP extradirslib> => [(<Element 'scope' at 0xb235c534>, (<Element 'scope' at 0xb235c5a4>, []))]
+[09/14/2015 03:44:33PM] INFO - _hit_from_elem_imports:: ie: matched ('Pontoiluminacao',) to <Element 'scope' at 0xb235c534> in blob <Element 'scope' at 0xb235c5a4>
+[09/14/2015 03:44:33PM] INFO - _return_with_hit:: hit is okay: (<Element 'scope' at 0xb235c534>, (<Element 'scope' at 0xb235c5a4>, []))
+[09/14/2015 03:44:33PM] INFO - _return_with_hit:: hit is okay: (<Element 'scope' at 0xb235c534>, (<Element 'scope' at 0xb235c5a4>, []))
+[09/14/2015 03:44:33PM] INFO - _hits_from_first_part:: pt4: is 'Pontoiluminacao' accessible on (<Element 'scope' at 0xb5fa4e64>, [])? yes, imported: <Element 'scope' at 0xb235c534>
+[09/14/2015 03:44:33PM] INFO - _hit_from_getattr:: resolve 'tabComponentes' on <Element 'scope' at 0xb235c534> in (<Element 'scope' at 0xb235c5a4>, []):
+[09/14/2015 03:44:33PM] INFO - _hit_from_citdl:: found 'Pontoiluminacao.tabComponentes' => <Element 'scope' at 0xb235c534> on (<Element 'scope' at 0xb235c5a4>, [])
+[09/14/2015 03:44:33PM] INFO - _calltip_from_class:: no ctor in class 'Pontoiluminacao'
+[09/14/2015 03:44:33PM] INFO -     calltips: ['Pontoiluminacao()']
+[09/14/2015 03:44:33PM] INFO - done eval: success
+[09/14/2015 03:44:33PM] INFO - Autocomplete called (PHP) [calltips]
+[09/14/2015 03:44:34PM] INFO - eval 'Pontoiluminacao.tabComponentes' at Ponto_iluminacao.php#474  <Trigger 'php-calltip-call-signature' at 21100>
+[09/14/2015 03:44:34PM] INFO - _hit_from_citdl:: expr: 'Pontoiluminacao.tabComponentes', scoperef: (<Element 'scope' at 0xb21d733c>, ['Ponto_iluminacao', 'getTabComponentesByID'])
+[09/14/2015 03:44:34PM] INFO - _hit_from_citdl:: expr tokens: ['Pontoiluminacao', 'tabComponentes']
+[09/14/2015 03:44:34PM] INFO - _hits_from_first_part:: find 'Pontoiluminacao ...' starting at (<Element 'scope' at 0xb21d733c>, ['Ponto_iluminacao', 'getTabComponentesByID']):
+[09/14/2015 03:44:34PM] INFO - _hits_from_first_part:: scoperef now (<Element 'scope' at 0xb21d733c>, ['Ponto_iluminacao', 'getTabComponentesByID']):
+[09/14/2015 03:44:34PM] INFO - _hits_from_first_part:: checking namespace aliases
+[09/14/2015 03:44:34PM] INFO - _hits_from_first_part:: pt3: is 'Pontoiluminacao' accessible on (<Element 'scope' at 0xb21d733c>, ['Ponto_iluminacao', 'getTabComponentesByID'])? no
+[09/14/2015 03:44:34PM] INFO - _hits_from_first_part:: scoperef now (<Element 'scope' at 0xb21d733c>, []):
+[09/14/2015 03:44:34PM] INFO - _hits_from_first_part:: checking namespace aliases
+[09/14/2015 03:44:34PM] INFO - _hits_from_first_part:: pt3: is 'Pontoiluminacao' accessible on (<Element 'scope' at 0xb21d733c>, [])? no
+[09/14/2015 03:44:34PM] INFO - _hit_from_elem_imports:: trying import everything: tokens: ['Pontoiluminacao', 'tabComponentes']
+[09/14/2015 03:44:34PM] INFO - _hit_from_elem_imports:: trying with lpath: ('Pontoiluminacao', 'tabComponentes')
+[09/14/2015 03:44:34PM] INFO - _hit_from_elem_imports:: ie: lookup ('Pontoiluminacao', 'tabComponentes') in <PHP curdirlib> => []
+[09/14/2015 03:44:34PM] INFO - _hit_from_elem_imports:: ie: lookup ('Pontoiluminacao', 'tabComponentes') in <PHP extradirslib> => []
+[09/14/2015 03:44:34PM] INFO - _hit_from_elem_imports:: ie: lookup ('Pontoiluminacao', 'tabComponentes') in <PHP cataloglib: > => []
+[09/14/2015 03:44:34PM] INFO - _hit_from_elem_imports:: ie: lookup ('Pontoiluminacao', 'tabComponentes') in <php-5.4 stdlib> => []
+[09/14/2015 03:44:34PM] INFO - _hit_from_elem_imports:: ie: no matches found
+[09/14/2015 03:44:34PM] INFO - _hit_from_elem_imports:: trying with lpath: ('Pontoiluminacao',)
+[09/14/2015 03:44:34PM] INFO - _hit_from_elem_imports:: ie: lookup ('Pontoiluminacao',) in <PHP curdirlib> => []
+[09/14/2015 03:44:34PM] INFO - _hit_from_elem_imports:: ie: lookup ('Pontoiluminacao',) in <PHP extradirslib> => [(<Element 'scope' at 0xb235c72c>, (<Element 'scope' at 0xb235cf7c>, []))]
+[09/14/2015 03:44:34PM] INFO - _hit_from_elem_imports:: ie: matched ('Pontoiluminacao',) to <Element 'scope' at 0xb235c72c> in blob <Element 'scope' at 0xb235cf7c>
+[09/14/2015 03:44:34PM] INFO - _return_with_hit:: hit is okay: (<Element 'scope' at 0xb235c72c>, (<Element 'scope' at 0xb235cf7c>, []))
+[09/14/2015 03:44:34PM] INFO - _return_with_hit:: hit is okay: (<Element 'scope' at 0xb235c72c>, (<Element 'scope' at 0xb235cf7c>, []))
+[09/14/2015 03:44:34PM] INFO - _hits_from_first_part:: pt4: is 'Pontoiluminacao' accessible on (<Element 'scope' at 0xb21d733c>, [])? yes, imported: <Element 'scope' at 0xb235c72c>
+[09/14/2015 03:44:34PM] INFO - _hit_from_getattr:: resolve 'tabComponentes' on <Element 'scope' at 0xb235c72c> in (<Element 'scope' at 0xb235cf7c>, []):
+[09/14/2015 03:44:34PM] INFO - _hit_from_citdl:: found 'Pontoiluminacao.tabComponentes' => <Element 'scope' at 0xb235c72c> on (<Element 'scope' at 0xb235cf7c>, [])
+[09/14/2015 03:44:34PM] INFO - _calltip_from_class:: no ctor in class 'Pontoiluminacao'
+[09/14/2015 03:44:34PM] INFO -     calltips: ['Pontoiluminacao()']
+[09/14/2015 03:44:34PM] INFO - done eval: success
+[09/14/2015 03:44:34PM] INFO - Autocomplete called (PHP) [calltips]
+[09/14/2015 03:44:34PM] INFO - eval 'd' at Ponto_iluminacao.php#474  <Trigger 'php-complete-variables' at 21123>
+[09/14/2015 03:44:34PM] INFO - variable_names_from_scope_starting_with_expr:: expr: None, scoperef: (<Element 'scope' at 0xb238a924>, ['Ponto_iluminacao', 'getTabComponentesByID']) for ('locals', 'builtins')
+[09/14/2015 03:44:34PM] INFO - variable_names_from_scope_starting_with_expr:: adding locals: ['id', 'data', 'componente', 'componentes']
+[09/14/2015 03:44:34PM] INFO -     cplns: [('variable', 'data')]
+[09/14/2015 03:44:34PM] INFO - done eval: success
+[09/14/2015 03:44:34PM] INFO - Autocomplete called (PHP) [cplns]
+[09/14/2015 03:44:38PM] INFO - eval 'e' at Ponto_iluminacao.php#474  <Trigger 'php-complete-variables' at 21129>
+[09/14/2015 03:44:38PM] INFO - variable_names_from_scope_starting_with_expr:: expr: None, scoperef: (<Element 'scope' at 0xb228180c>, ['Ponto_iluminacao', 'getTabComponentesByID']) for ('locals', 'builtins')
+[09/14/2015 03:44:38PM] INFO - variable_names_from_scope_starting_with_expr:: adding locals: ['id', 'data', 'componente', 'componentes']
+[09/14/2015 03:44:38PM] INFO -     cplns: []
+[09/14/2015 03:44:38PM] INFO - done eval: success
+[09/14/2015 03:44:39PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/controllers/Ponto_iluminacao.php' lang: PHP
+[09/14/2015 04:06:29PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/models/Pontoiluminacao_model.php' lang: PHP
+[09/14/2015 04:06:43PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/models/Pontoiluminacao_model.php' lang: PHP
+[09/14/2015 04:13:44PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/libraries/Pontoiluminacao.php' lang: PHP
+[09/14/2015 04:15:12PM] INFO - eval '$' at ordem_servico.js#123  <Trigger 'javascript-calltip-call-signature' at 5819>
+[09/14/2015 04:15:12PM] INFO - start scope is (<Element 'scope' at 0xb423cfb4>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:15:12PM] INFO - find '$' starting at (<Element 'scope' at 0xb423cfb4>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:15:12PM] INFO - is '$' accessible on (<Element 'scope' at 0xb423cfb4>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])? no
+[09/14/2015 04:15:12PM] INFO - is '$' accessible on (<Element 'scope' at 0xb423cfb4>, ['SIGIP', 'ordem_servico', 'init'])? no
+[09/14/2015 04:15:12PM] INFO - is '$' accessible on (<Element 'scope' at 0xb423cfb4>, ['SIGIP', 'ordem_servico'])? no
+[09/14/2015 04:15:12PM] INFO - is '$' accessible on (<Element 'scope' at 0xb423cfb4>, ['SIGIP'])? no
+[09/14/2015 04:15:12PM] INFO - is '$' accessible on (<Element 'scope' at 0xb423cfb4>, [])? no
+[09/14/2015 04:15:12PM] INFO - is '$' accessible on (<Element 'scope' at 0xb4394224>, [])? no
+[09/14/2015 04:15:12PM] INFO - is '$' accessible on (<Element 'scope' at 0xb4394224>, ['Window'])? no
+[09/14/2015 04:15:12PM] INFO - lookup '$' in <JavaScript curdirlib>
+[09/14/2015 04:15:12PM] INFO - lookup '$' in <JavaScript cataloglib: jQuery>
+[09/14/2015 04:15:12PM] INFO - found 1 hits in lib
+[09/14/2015 04:15:12PM] INFO - lookup '$' in <javascript stdlib>
+[09/14/2015 04:15:12PM] INFO - resolve 'jQuery' type inference for <Element 'variable' at 0xb28e017c>:
+[09/14/2015 04:15:12PM] INFO - find 'jQuery' starting at (<Element 'scope' at 0xb2712d4c>, [])
+[09/14/2015 04:15:12PM] INFO - is 'jQuery' accessible on (<Element 'scope' at 0xb2712d4c>, [])? yes
+[09/14/2015 04:15:12PM] INFO - _hit_from_first_part: found elem: class 'jQuery' at []
+[09/14/2015 04:15:12PM] INFO - lookup 'jQuery' in <JavaScript curdirlib>
+[09/14/2015 04:15:12PM] INFO - lookup 'jQuery' in <JavaScript cataloglib: jQuery>
+[09/14/2015 04:15:12PM] INFO - found 1 hits in lib
+[09/14/2015 04:15:12PM] INFO - lookup 'jQuery' in <javascript stdlib>
+[09/14/2015 04:15:12PM] INFO - ctor is <Element 'scope' at 0xb28bdca4>
+[09/14/2015 04:15:12PM] INFO - ctor is <Element 'scope' at 0xb28bdca4>
+[09/14/2015 04:15:12PM] INFO -     calltips: ['jQuery(callback) -> $\nBinds a function to be executed when the DOM has finished\nloading.', 'jQuery(callback) -> $\nBinds a function to be executed when the DOM has finished\nloading.']
+[09/14/2015 04:15:12PM] INFO - done eval: success
+[09/14/2015 04:15:12PM] INFO - Autocomplete called (JavaScript) [calltips]
+[09/14/2015 04:15:14PM] INFO - eval 'thi' at ordem_servico.js#123  <Trigger 'javascript-complete-names' at 5819>
+[09/14/2015 04:15:14PM] INFO - start scope is (<Element 'scope' at 0xb22afbfc>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:15:14PM] INFO - _completion_names_from_scope:: 'thi', scoperef: (<Element 'scope' at 0xb22afbfc>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:15:14PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb22afbfc>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:15:14PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb22afbfc>, ['SIGIP', 'ordem_servico', 'init'])
+[09/14/2015 04:15:14PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb22afbfc>, ['SIGIP', 'ordem_servico'])
+[09/14/2015 04:15:14PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb22afbfc>, ['SIGIP'])
+[09/14/2015 04:15:14PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb22afbfc>, [])
+[09/14/2015 04:15:14PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb4394224>, [])
+[09/14/2015 04:15:14PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb4394224>, ['Window'])
+[09/14/2015 04:15:14PM] INFO - _completion_names_from_scope:: include everything from lib: <JavaScript curdirlib>
+[09/14/2015 04:15:14PM] INFO - _completion_names_from_scope:: include everything from lib: <JavaScript cataloglib: jQuery>
+[09/14/2015 04:15:14PM] INFO - _completion_names_from_scope:: include everything from lib: <javascript stdlib>
+[09/14/2015 04:15:14PM] INFO -     cplns: [('keyword', 'this'), ('variable', 'this_')]
+[09/14/2015 04:15:14PM] INFO - done eval: success
+[09/14/2015 04:15:14PM] INFO - Autocomplete called (JavaScript) [cplns]
+[09/14/2015 04:15:15PM] INFO - eval '$()' at ordem_servico.js#123  <Trigger 'javascript-complete-object-members' at 5825>
+[09/14/2015 04:15:15PM] INFO - start scope is (<Element 'scope' at 0xb423cd4c>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:15:15PM] INFO - find '$' starting at (<Element 'scope' at 0xb423cd4c>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:15:15PM] INFO - is '$' accessible on (<Element 'scope' at 0xb423cd4c>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])? no
+[09/14/2015 04:15:15PM] INFO - is '$' accessible on (<Element 'scope' at 0xb423cd4c>, ['SIGIP', 'ordem_servico', 'init'])? no
+[09/14/2015 04:15:15PM] INFO - is '$' accessible on (<Element 'scope' at 0xb423cd4c>, ['SIGIP', 'ordem_servico'])? no
+[09/14/2015 04:15:15PM] INFO - is '$' accessible on (<Element 'scope' at 0xb423cd4c>, ['SIGIP'])? no
+[09/14/2015 04:15:15PM] INFO - is '$' accessible on (<Element 'scope' at 0xb423cd4c>, [])? no
+[09/14/2015 04:15:15PM] INFO - is '$' accessible on (<Element 'scope' at 0xb4394224>, [])? no
+[09/14/2015 04:15:15PM] INFO - is '$' accessible on (<Element 'scope' at 0xb4394224>, ['Window'])? no
+[09/14/2015 04:15:15PM] INFO - lookup '$' in <JavaScript curdirlib>
+[09/14/2015 04:15:15PM] INFO - lookup '$' in <JavaScript cataloglib: jQuery>
+[09/14/2015 04:15:15PM] INFO - found 1 hits in lib
+[09/14/2015 04:15:15PM] INFO - lookup '$' in <javascript stdlib>
+[09/14/2015 04:15:15PM] INFO - resolve 'jQuery' type inference for <Element 'variable' at 0xb28e017c>:
+[09/14/2015 04:15:15PM] INFO - find 'jQuery' starting at (<Element 'scope' at 0xb2712d4c>, [])
+[09/14/2015 04:15:15PM] INFO - is 'jQuery' accessible on (<Element 'scope' at 0xb2712d4c>, [])? yes
+[09/14/2015 04:15:15PM] INFO - _hit_from_first_part: found elem: class 'jQuery' at []
+[09/14/2015 04:15:15PM] INFO - lookup 'jQuery' in <JavaScript curdirlib>
+[09/14/2015 04:15:15PM] INFO - lookup 'jQuery' in <JavaScript cataloglib: jQuery>
+[09/14/2015 04:15:15PM] INFO - found 1 hits in lib
+[09/14/2015 04:15:15PM] INFO - lookup 'jQuery' in <javascript stdlib>
+[09/14/2015 04:15:15PM] INFO -     cplns: [('function', 'add'), ('function', 'addBack'), ('function', 'addClass'), ('function', 'after'), ('function', 'ajax'), ('function', 'ajaxComplete'), ('function', 'ajaxError'), ('function', 'ajaxPrefilter'), ('function', 'ajaxSend'), ('function', 'ajaxSetup'), ('function', 'ajaxStart'), ('function', 'ajaxStop'), ('function', 'ajaxSuccess'), ('function', 'ajaxTransport'), ('function', 'all'), ('function', 'andSelf'), ('function', 'animate'), ('function', 'animated'), ('function', 'append'), ('function', 'appendTo'), ('function', 'attr'), ('function', 'attributeContains'), ('function', 'attributeContainsPrefix'), ('function', 'attributeContainsWord'), ('function', 'attributeEndsWith'), ('function', 'attributeEquals'), ('function', 'attributeHas'), ('function', 'attributeMultiple'), ('function', 'attributeNotEqual'), ('function', 'attributeStartsWith'), ('function', 'before'), ('function', 'bind'), ('function', 'blur'), ('variable', 'boxModel'), ('namespace', 'browser'), ('function', 'button'), ('function', 'Callbacks'), ('function', 'change'), ('function', 'checkbox'), ('function', 'checked'), ('function', 'child'), ('function', 'children'), ('function', 'class'), ('function', 'clearQueue'), ('function', 'click'), ('function', 'clone'), ('function', 'closest'), ('function', 'contains'), ('function', 'contents'), ('variable', 'context'), ('function', 'css'), ('variable', 'cssHooks'), ('function', 'data'), ('function', 'dblclick'), ('function', 'Deferred'), ('function', 'delay'), ('function', 'delegate'), ('function', 'dequeue'), ('function', 'descendant'), ('function', 'detach'), ('function', 'die'), ('function', 'disabled'), ('function', 'each'), ('function', 'element'), ('function', 'empty'), ('function', 'enabled'), ('function', 'end'), ('function', 'eq'), ('function', 'error'), ('function', 'even'), ('function', 'extend'), ('function', 'fadeIn'), ('function', 'fadeOut'), ('function', 'fadeTo'), ('function', 'fadeToggle'), ('function', 'file'), ('function', 'filter'), ('function', 'find'), ('function', 'finish'), ('function', 'first'), ('function', 'first-child'), ('function', 'first-of-type'), ('function', 'focus'), ('function', 'focusin'), ('function', 'focusout'), ('function', 'get'), ('function', 'getJSON'), ('function', 'getScript'), ('function', 'globalEval'), ('function', 'grep'), ('function', 'gt'), ('function', 'has'), ('function', 'hasClass'), ('function', 'hasData'), ('function', 'header'), ('function', 'height'), ('function', 'hidden'), ('function', 'hide'), ('function', 'holdReady'), ('function', 'hover'), ('function', 'html'), ('function', 'id'), ('function', 'image'), ('function', 'inArray'), ('function', 'index'), ('function', 'innerHeight'), ('function', 'innerWidth'), ('function', 'input'), ('function', 'insertAfter'), ('function', 'insertBefore'), ('function', 'is'), ('function', 'isArray'), ('function', 'isEmptyObject'), ('function', 'isFunction'), ('function', 'isNumeric'), ('function', 'isPlainObject'), ('function', 'isWindow'), ('function', 'isXMLDoc'), ('function', 'jQuery'), ('variable', 'jquery'), ('function', 'keydown'), ('function', 'keypress'), ('function', 'keyup'), ('function', 'lang'), ('function', 'last'), ('function', 'last-child'), ('function', 'last-of-type'), ('variable', 'length'), ('function', 'live'), ('function', 'load'), ('function', 'lt'), ('function', 'makeArray'), ('function', 'map'), ('function', 'merge'), ('function', 'mousedown'), ('function', 'mouseenter'), ('function', 'mouseleave'), ('function', 'mousemove'), ('function', 'mouseout'), ('function', 'mouseover'), ('function', 'mouseup'), ('function', 'multiple'), ('function', 'next'), ('function', 'next adjacent'), ('function', 'next siblings'), ('function', 'nextAll'), ('function', 'nextUntil'), ('function', 'noConflict'), ('function', 'noop'), ('function', 'not'), ('function', 'now'), ('function', 'nth-child'), ('function', 'nth-last-child'), ('function', 'nth-last-of-type'), ('function', 'nth-of-type'), ('function', 'odd'), ('function', 'off'), ('function', 'offset'), ('function', 'offsetParent'), ('function', 'on'), ('function', 'one'), ('function', 'only-child'), ('function', 'only-of-type'), ('function', 'outerHeight'), ('function', 'outerWidth'), ('function', 'param'), ('function', 'parent'), ('function', 'parents'), ('function', 'parentsUntil'), ('function', 'parseHTML'), ('function', 'parseJSON'), ('function', 'parseXML'), ('function', 'password'), ('function', 'position'), ('function', 'post'), ('function', 'prepend'), ('function', 'prependTo'), ('function', 'prev'), ('function', 'prevAll'), ('function', 'prevUntil'), ('function', 'promise'), ('function', 'prop'), ('function', 'proxy'), ('function', 'pushStack'), ('function', 'queue'), ('function', 'radio'), ('function', 'ready'), ('function', 'remove'), ('function', 'removeAttr'), ('function', 'removeClass'), ('function', 'removeData'), ('function', 'removeProp'), ('function', 'replaceAll'), ('function', 'replaceWith'), ('function', 'reset'), ('function', 'resize'), ('function', 'root'), ('function', 'scroll'), ('function', 'scrollLeft'), ('function', 'scrollTop'), ('function', 'select'), ('function', 'selected'), ('variable', 'selector'), ('function', 'serialize'), ('function', 'serializeArray'), ('function', 'show'), ('function', 'siblings'), ('function', 'size'), ('function', 'slice'), ('function', 'slideDown'), ('function', 'slideToggle'), ('function', 'slideUp'), ('function', 'stop'), ('function', 'sub'), ('function', 'submit'), ('variable', 'support'), ('function', 'target'), ('function', 'text'), ('function', 'toArray'), ('function', 'toggle'), ('function', 'toggleClass'), ('function', 'trigger'), ('function', 'triggerHandler'), ('function', 'trim'), ('function', 'type'), ('function', 'unbind'), ('function', 'undelegate'), ('function', 'unique'), ('function', 'unload'), ('function', 'unwrap'), ('function', 'val'), ('function', 'visible'), ('function', 'when'), ('function', 'width'), ('function', 'wrap'), ('function', 'wrapAll'), ('function', 'wrapInner')]
+[09/14/2015 04:15:15PM] INFO - done eval: success
+[09/14/2015 04:15:15PM] INFO - Autocomplete called (JavaScript) [cplns]
+[09/14/2015 04:15:17PM] INFO - eval '$().parents' at ordem_servico.js#123  <Trigger 'javascript-calltip-call-signature' at 5833>
+[09/14/2015 04:15:17PM] INFO - start scope is (<Element 'scope' at 0xb5c8b294>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:15:17PM] INFO - find '$' starting at (<Element 'scope' at 0xb5c8b294>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:15:17PM] INFO - is '$' accessible on (<Element 'scope' at 0xb5c8b294>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])? no
+[09/14/2015 04:15:17PM] INFO - is '$' accessible on (<Element 'scope' at 0xb5c8b294>, ['SIGIP', 'ordem_servico', 'init'])? no
+[09/14/2015 04:15:17PM] INFO - is '$' accessible on (<Element 'scope' at 0xb5c8b294>, ['SIGIP', 'ordem_servico'])? no
+[09/14/2015 04:15:17PM] INFO - is '$' accessible on (<Element 'scope' at 0xb5c8b294>, ['SIGIP'])? no
+[09/14/2015 04:15:17PM] INFO - is '$' accessible on (<Element 'scope' at 0xb5c8b294>, [])? no
+[09/14/2015 04:15:17PM] INFO - is '$' accessible on (<Element 'scope' at 0xb4394224>, [])? no
+[09/14/2015 04:15:17PM] INFO - is '$' accessible on (<Element 'scope' at 0xb4394224>, ['Window'])? no
+[09/14/2015 04:15:17PM] INFO - lookup '$' in <JavaScript curdirlib>
+[09/14/2015 04:15:17PM] INFO - lookup '$' in <JavaScript cataloglib: jQuery>
+[09/14/2015 04:15:17PM] INFO - found 1 hits in lib
+[09/14/2015 04:15:17PM] INFO - lookup '$' in <javascript stdlib>
+[09/14/2015 04:15:17PM] INFO - resolve 'jQuery' type inference for <Element 'variable' at 0xb28e017c>:
+[09/14/2015 04:15:17PM] INFO - find 'jQuery' starting at (<Element 'scope' at 0xb2712d4c>, [])
+[09/14/2015 04:15:17PM] INFO - is 'jQuery' accessible on (<Element 'scope' at 0xb2712d4c>, [])? yes
+[09/14/2015 04:15:17PM] INFO - _hit_from_first_part: found elem: class 'jQuery' at []
+[09/14/2015 04:15:17PM] INFO - lookup 'jQuery' in <JavaScript curdirlib>
+[09/14/2015 04:15:17PM] INFO - lookup 'jQuery' in <JavaScript cataloglib: jQuery>
+[09/14/2015 04:15:17PM] INFO - found 1 hits in lib
+[09/14/2015 04:15:17PM] INFO - lookup 'jQuery' in <javascript stdlib>
+[09/14/2015 04:15:17PM] INFO - resolve getattr 'parents' on <Element 'scope' at 0xb2712dbc> in (<Element 'scope' at 0xb2712d4c>, []):
+[09/14/2015 04:15:17PM] INFO - _hit_from_getattr:: hit elem <Element 'scope' at 0xb2712dbc>, scoperef: (<Element 'scope' at 0xb2712d4c>, [])
+[09/14/2015 04:15:17PM] INFO - attr is <Element 'scope' at 0xb28d5c34> on <Element 'scope' at 0xb2712dbc>
+[09/14/2015 04:15:17PM] INFO - resolve getattr 'parents' on <Element 'scope' at 0xb2712dbc> in (<Element 'scope' at 0xb2712d4c>, []):
+[09/14/2015 04:15:17PM] INFO - _hit_from_getattr:: hit elem <Element 'scope' at 0xb2712dbc>, scoperef: (<Element 'scope' at 0xb2712d4c>, [])
+[09/14/2015 04:15:17PM] INFO - attr is <Element 'scope' at 0xb28d5c34> on <Element 'scope' at 0xb2712dbc>
+[09/14/2015 04:15:17PM] INFO -     calltips: ['parents(selector) -> $\nGet the ancestors of each element in the current set of\nmatched elements, optionally filtered by a selector.', 'parents(selector) -> $\nGet the ancestors of each element in the current set of\nmatched elements, optionally filtered by a selector.']
+[09/14/2015 04:15:17PM] INFO - done eval: success
+[09/14/2015 04:15:17PM] INFO - Autocomplete called (JavaScript) [calltips]
+[09/14/2015 04:15:29PM] INFO - eval '$().parents('form')' at ordem_servico.js#123  <Trigger 'javascript-complete-object-members' at 5841>
+[09/14/2015 04:15:29PM] INFO - start scope is (<Element 'scope' at 0xb5c8b294>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:15:29PM] INFO - find '$' starting at (<Element 'scope' at 0xb5c8b294>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:15:29PM] INFO - is '$' accessible on (<Element 'scope' at 0xb5c8b294>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])? no
+[09/14/2015 04:15:29PM] INFO - is '$' accessible on (<Element 'scope' at 0xb5c8b294>, ['SIGIP', 'ordem_servico', 'init'])? no
+[09/14/2015 04:15:29PM] INFO - is '$' accessible on (<Element 'scope' at 0xb5c8b294>, ['SIGIP', 'ordem_servico'])? no
+[09/14/2015 04:15:29PM] INFO - is '$' accessible on (<Element 'scope' at 0xb5c8b294>, ['SIGIP'])? no
+[09/14/2015 04:15:29PM] INFO - is '$' accessible on (<Element 'scope' at 0xb5c8b294>, [])? no
+[09/14/2015 04:15:29PM] INFO - is '$' accessible on (<Element 'scope' at 0xb4394224>, [])? no
+[09/14/2015 04:15:29PM] INFO - is '$' accessible on (<Element 'scope' at 0xb4394224>, ['Window'])? no
+[09/14/2015 04:15:29PM] INFO - lookup '$' in <JavaScript curdirlib>
+[09/14/2015 04:15:29PM] INFO - lookup '$' in <JavaScript cataloglib: jQuery>
+[09/14/2015 04:15:29PM] INFO - found 1 hits in lib
+[09/14/2015 04:15:29PM] INFO - lookup '$' in <javascript stdlib>
+[09/14/2015 04:15:29PM] INFO - resolve 'jQuery' type inference for <Element 'variable' at 0xb28e017c>:
+[09/14/2015 04:15:29PM] INFO - find 'jQuery' starting at (<Element 'scope' at 0xb2712d4c>, [])
+[09/14/2015 04:15:29PM] INFO - is 'jQuery' accessible on (<Element 'scope' at 0xb2712d4c>, [])? yes
+[09/14/2015 04:15:29PM] INFO - _hit_from_first_part: found elem: class 'jQuery' at []
+[09/14/2015 04:15:29PM] INFO - lookup 'jQuery' in <JavaScript curdirlib>
+[09/14/2015 04:15:29PM] INFO - lookup 'jQuery' in <JavaScript cataloglib: jQuery>
+[09/14/2015 04:15:29PM] INFO - found 1 hits in lib
+[09/14/2015 04:15:29PM] INFO - lookup 'jQuery' in <javascript stdlib>
+[09/14/2015 04:15:29PM] INFO - resolve getattr 'parents' on <Element 'scope' at 0xb2712dbc> in (<Element 'scope' at 0xb2712d4c>, []):
+[09/14/2015 04:15:29PM] INFO - _hit_from_getattr:: hit elem <Element 'scope' at 0xb2712dbc>, scoperef: (<Element 'scope' at 0xb2712d4c>, [])
+[09/14/2015 04:15:29PM] INFO - attr is <Element 'scope' at 0xb28d5c34> on <Element 'scope' at 0xb2712dbc>
+[09/14/2015 04:15:29PM] INFO - resolve getattr 'parents' on <Element 'scope' at 0xb2712dbc> in (<Element 'scope' at 0xb2712d4c>, []):
+[09/14/2015 04:15:29PM] INFO - _hit_from_getattr:: hit elem <Element 'scope' at 0xb2712dbc>, scoperef: (<Element 'scope' at 0xb2712d4c>, [])
+[09/14/2015 04:15:29PM] INFO - attr is <Element 'scope' at 0xb28d5c34> on <Element 'scope' at 0xb2712dbc>
+[09/14/2015 04:15:29PM] INFO - _hits_from_call: no resolver on <Element 'scope' at 0xb28d5c34>
+[09/14/2015 04:15:29PM] INFO - _hits_from_call: resolve '$' for <Element 'scope' at 0xb28d5c34>, scoperef: (<Element 'scope' at 0xb2712d4c>, ['jQuery'])
+[09/14/2015 04:15:29PM] INFO - find '$' starting at (<Element 'scope' at 0xb2712d4c>, ['jQuery', 'parents'])
+[09/14/2015 04:15:29PM] INFO - is '$' accessible on (<Element 'scope' at 0xb2712d4c>, ['jQuery', 'parents'])? no
+[09/14/2015 04:15:29PM] INFO - is '$' accessible on (<Element 'scope' at 0xb2712d4c>, ['jQuery'])? no
+[09/14/2015 04:15:29PM] INFO - is '$' accessible on (<Element 'scope' at 0xb2712d4c>, [])? yes
+[09/14/2015 04:15:29PM] INFO - _hit_from_first_part: found elem: variable '$' at []
+[09/14/2015 04:15:29PM] INFO - lookup '$' in <JavaScript curdirlib>
+[09/14/2015 04:15:29PM] INFO - lookup '$' in <JavaScript cataloglib: jQuery>
+[09/14/2015 04:15:29PM] INFO - found 1 hits in lib
+[09/14/2015 04:15:29PM] INFO - lookup '$' in <javascript stdlib>
+[09/14/2015 04:15:29PM] INFO - resolve 'jQuery' type inference for <Element 'variable' at 0xb28e017c>:
+[09/14/2015 04:15:29PM] INFO - find 'jQuery' starting at (<Element 'scope' at 0xb2712d4c>, [])
+[09/14/2015 04:15:29PM] INFO - is 'jQuery' accessible on (<Element 'scope' at 0xb2712d4c>, [])? yes
+[09/14/2015 04:15:29PM] INFO - _hit_from_first_part: found elem: class 'jQuery' at []
+[09/14/2015 04:15:29PM] INFO - lookup 'jQuery' in <JavaScript curdirlib>
+[09/14/2015 04:15:29PM] INFO - lookup 'jQuery' in <JavaScript cataloglib: jQuery>
+[09/14/2015 04:15:29PM] INFO - found 1 hits in lib
+[09/14/2015 04:15:29PM] INFO - lookup 'jQuery' in <javascript stdlib>
+[09/14/2015 04:15:29PM] INFO - resolve 'jQuery' type inference for <Element 'variable' at 0xb28e017c>:
+[09/14/2015 04:15:29PM] INFO - find 'jQuery' starting at (<Element 'scope' at 0xb2712d4c>, [])
+[09/14/2015 04:15:29PM] INFO - is 'jQuery' accessible on (<Element 'scope' at 0xb2712d4c>, [])? yes
+[09/14/2015 04:15:29PM] INFO - _hit_from_first_part: found elem: class 'jQuery' at []
+[09/14/2015 04:15:29PM] INFO - lookup 'jQuery' in <JavaScript curdirlib>
+[09/14/2015 04:15:29PM] INFO - lookup 'jQuery' in <JavaScript cataloglib: jQuery>
+[09/14/2015 04:15:29PM] INFO - found 1 hits in lib
+[09/14/2015 04:15:29PM] INFO - lookup 'jQuery' in <javascript stdlib>
+[09/14/2015 04:15:29PM] INFO - _hits_from_call: no resolver on <Element 'scope' at 0xb28d5c34>
+[09/14/2015 04:15:29PM] INFO - _hits_from_call: resolve '$' for <Element 'scope' at 0xb28d5c34>, scoperef: (<Element 'scope' at 0xb2712d4c>, ['jQuery'])
+[09/14/2015 04:15:29PM] INFO - find '$' starting at (<Element 'scope' at 0xb2712d4c>, ['jQuery', 'parents'])
+[09/14/2015 04:15:29PM] INFO - is '$' accessible on (<Element 'scope' at 0xb2712d4c>, ['jQuery', 'parents'])? no
+[09/14/2015 04:15:29PM] INFO - is '$' accessible on (<Element 'scope' at 0xb2712d4c>, ['jQuery'])? no
+[09/14/2015 04:15:29PM] INFO - is '$' accessible on (<Element 'scope' at 0xb2712d4c>, [])? yes
+[09/14/2015 04:15:29PM] INFO - _hit_from_first_part: found elem: variable '$' at []
+[09/14/2015 04:15:29PM] INFO - lookup '$' in <JavaScript curdirlib>
+[09/14/2015 04:15:29PM] INFO - lookup '$' in <JavaScript cataloglib: jQuery>
+[09/14/2015 04:15:29PM] INFO - found 1 hits in lib
+[09/14/2015 04:15:29PM] INFO - lookup '$' in <javascript stdlib>
+[09/14/2015 04:15:29PM] INFO - resolve 'jQuery' type inference for <Element 'variable' at 0xb28e017c>:
+[09/14/2015 04:15:29PM] INFO - find 'jQuery' starting at (<Element 'scope' at 0xb2712d4c>, [])
+[09/14/2015 04:15:29PM] INFO - is 'jQuery' accessible on (<Element 'scope' at 0xb2712d4c>, [])? yes
+[09/14/2015 04:15:29PM] INFO - _hit_from_first_part: found elem: class 'jQuery' at []
+[09/14/2015 04:15:29PM] INFO - lookup 'jQuery' in <JavaScript curdirlib>
+[09/14/2015 04:15:29PM] INFO - lookup 'jQuery' in <JavaScript cataloglib: jQuery>
+[09/14/2015 04:15:29PM] INFO - found 1 hits in lib
+[09/14/2015 04:15:29PM] INFO - lookup 'jQuery' in <javascript stdlib>
+[09/14/2015 04:15:29PM] INFO - resolve 'jQuery' type inference for <Element 'variable' at 0xb28e017c>:
+[09/14/2015 04:15:29PM] INFO - find 'jQuery' starting at (<Element 'scope' at 0xb2712d4c>, [])
+[09/14/2015 04:15:29PM] INFO - is 'jQuery' accessible on (<Element 'scope' at 0xb2712d4c>, [])? yes
+[09/14/2015 04:15:29PM] INFO - _hit_from_first_part: found elem: class 'jQuery' at []
+[09/14/2015 04:15:29PM] INFO - lookup 'jQuery' in <JavaScript curdirlib>
+[09/14/2015 04:15:29PM] INFO - lookup 'jQuery' in <JavaScript cataloglib: jQuery>
+[09/14/2015 04:15:29PM] INFO - found 1 hits in lib
+[09/14/2015 04:15:29PM] INFO - lookup 'jQuery' in <javascript stdlib>
+[09/14/2015 04:15:29PM] INFO -     cplns: [('function', 'add'), ('function', 'addBack'), ('function', 'addClass'), ('function', 'after'), ('function', 'ajax'), ('function', 'ajaxComplete'), ('function', 'ajaxError'), ('function', 'ajaxPrefilter'), ('function', 'ajaxSend'), ('function', 'ajaxSetup'), ('function', 'ajaxStart'), ('function', 'ajaxStop'), ('function', 'ajaxSuccess'), ('function', 'ajaxTransport'), ('function', 'all'), ('function', 'andSelf'), ('function', 'animate'), ('function', 'animated'), ('function', 'append'), ('function', 'appendTo'), ('function', 'attr'), ('function', 'attributeContains'), ('function', 'attributeContainsPrefix'), ('function', 'attributeContainsWord'), ('function', 'attributeEndsWith'), ('function', 'attributeEquals'), ('function', 'attributeHas'), ('function', 'attributeMultiple'), ('function', 'attributeNotEqual'), ('function', 'attributeStartsWith'), ('function', 'before'), ('function', 'bind'), ('function', 'blur'), ('variable', 'boxModel'), ('namespace', 'browser'), ('function', 'button'), ('function', 'Callbacks'), ('function', 'change'), ('function', 'checkbox'), ('function', 'checked'), ('function', 'child'), ('function', 'children'), ('function', 'class'), ('function', 'clearQueue'), ('function', 'click'), ('function', 'clone'), ('function', 'closest'), ('function', 'contains'), ('function', 'contents'), ('variable', 'context'), ('function', 'css'), ('variable', 'cssHooks'), ('function', 'data'), ('function', 'dblclick'), ('function', 'Deferred'), ('function', 'delay'), ('function', 'delegate'), ('function', 'dequeue'), ('function', 'descendant'), ('function', 'detach'), ('function', 'die'), ('function', 'disabled'), ('function', 'each'), ('function', 'element'), ('function', 'empty'), ('function', 'enabled'), ('function', 'end'), ('function', 'eq'), ('function', 'error'), ('function', 'even'), ('function', 'extend'), ('function', 'fadeIn'), ('function', 'fadeOut'), ('function', 'fadeTo'), ('function', 'fadeToggle'), ('function', 'file'), ('function', 'filter'), ('function', 'find'), ('function', 'finish'), ('function', 'first'), ('function', 'first-child'), ('function', 'first-of-type'), ('function', 'focus'), ('function', 'focusin'), ('function', 'focusout'), ('function', 'get'), ('function', 'getJSON'), ('function', 'getScript'), ('function', 'globalEval'), ('function', 'grep'), ('function', 'gt'), ('function', 'has'), ('function', 'hasClass'), ('function', 'hasData'), ('function', 'header'), ('function', 'height'), ('function', 'hidden'), ('function', 'hide'), ('function', 'holdReady'), ('function', 'hover'), ('function', 'html'), ('function', 'id'), ('function', 'image'), ('function', 'inArray'), ('function', 'index'), ('function', 'innerHeight'), ('function', 'innerWidth'), ('function', 'input'), ('function', 'insertAfter'), ('function', 'insertBefore'), ('function', 'is'), ('function', 'isArray'), ('function', 'isEmptyObject'), ('function', 'isFunction'), ('function', 'isNumeric'), ('function', 'isPlainObject'), ('function', 'isWindow'), ('function', 'isXMLDoc'), ('function', 'jQuery'), ('variable', 'jquery'), ('function', 'keydown'), ('function', 'keypress'), ('function', 'keyup'), ('function', 'lang'), ('function', 'last'), ('function', 'last-child'), ('function', 'last-of-type'), ('variable', 'length'), ('function', 'live'), ('function', 'load'), ('function', 'lt'), ('function', 'makeArray'), ('function', 'map'), ('function', 'merge'), ('function', 'mousedown'), ('function', 'mouseenter'), ('function', 'mouseleave'), ('function', 'mousemove'), ('function', 'mouseout'), ('function', 'mouseover'), ('function', 'mouseup'), ('function', 'multiple'), ('function', 'next'), ('function', 'next adjacent'), ('function', 'next siblings'), ('function', 'nextAll'), ('function', 'nextUntil'), ('function', 'noConflict'), ('function', 'noop'), ('function', 'not'), ('function', 'now'), ('function', 'nth-child'), ('function', 'nth-last-child'), ('function', 'nth-last-of-type'), ('function', 'nth-of-type'), ('function', 'odd'), ('function', 'off'), ('function', 'offset'), ('function', 'offsetParent'), ('function', 'on'), ('function', 'one'), ('function', 'only-child'), ('function', 'only-of-type'), ('function', 'outerHeight'), ('function', 'outerWidth'), ('function', 'param'), ('function', 'parent'), ('function', 'parents'), ('function', 'parentsUntil'), ('function', 'parseHTML'), ('function', 'parseJSON'), ('function', 'parseXML'), ('function', 'password'), ('function', 'position'), ('function', 'post'), ('function', 'prepend'), ('function', 'prependTo'), ('function', 'prev'), ('function', 'prevAll'), ('function', 'prevUntil'), ('function', 'promise'), ('function', 'prop'), ('function', 'proxy'), ('function', 'pushStack'), ('function', 'queue'), ('function', 'radio'), ('function', 'ready'), ('function', 'remove'), ('function', 'removeAttr'), ('function', 'removeClass'), ('function', 'removeData'), ('function', 'removeProp'), ('function', 'replaceAll'), ('function', 'replaceWith'), ('function', 'reset'), ('function', 'resize'), ('function', 'root'), ('function', 'scroll'), ('function', 'scrollLeft'), ('function', 'scrollTop'), ('function', 'select'), ('function', 'selected'), ('variable', 'selector'), ('function', 'serialize'), ('function', 'serializeArray'), ('function', 'show'), ('function', 'siblings'), ('function', 'size'), ('function', 'slice'), ('function', 'slideDown'), ('function', 'slideToggle'), ('function', 'slideUp'), ('function', 'stop'), ('function', 'sub'), ('function', 'submit'), ('variable', 'support'), ('function', 'target'), ('function', 'text'), ('function', 'toArray'), ('function', 'toggle'), ('function', 'toggleClass'), ('function', 'trigger'), ('function', 'triggerHandler'), ('function', 'trim'), ('function', 'type'), ('function', 'unbind'), ('function', 'undelegate'), ('function', 'unique'), ('function', 'unload'), ('function', 'unwrap'), ('function', 'val'), ('function', 'visible'), ('function', 'when'), ('function', 'width'), ('function', 'wrap'), ('function', 'wrapAll'), ('function', 'wrapInner')]
+[09/14/2015 04:15:29PM] INFO - done eval: success
+[09/14/2015 04:15:29PM] INFO - Autocomplete called (JavaScript) [cplns]
+[09/14/2015 04:15:49PM] INFO - eval 'var' at ordem_servico.js#123  <Trigger 'javascript-complete-names' at 5817>
+[09/14/2015 04:15:49PM] INFO - start scope is (<Element 'scope' at 0xb5c8b95c>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:15:49PM] INFO - _completion_names_from_scope:: 'var', scoperef: (<Element 'scope' at 0xb5c8b95c>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:15:49PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb5c8b95c>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:15:49PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb5c8b95c>, ['SIGIP', 'ordem_servico', 'init'])
+[09/14/2015 04:15:49PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb5c8b95c>, ['SIGIP', 'ordem_servico'])
+[09/14/2015 04:15:49PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb5c8b95c>, ['SIGIP'])
+[09/14/2015 04:15:49PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb5c8b95c>, [])
+[09/14/2015 04:15:49PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb4394224>, [])
+[09/14/2015 04:15:49PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb4394224>, ['Window'])
+[09/14/2015 04:15:49PM] INFO - _completion_names_from_scope:: include everything from lib: <JavaScript curdirlib>
+[09/14/2015 04:15:49PM] INFO - _completion_names_from_scope:: include everything from lib: <JavaScript cataloglib: jQuery>
+[09/14/2015 04:15:49PM] INFO - _completion_names_from_scope:: include everything from lib: <javascript stdlib>
+[09/14/2015 04:15:49PM] INFO -     cplns: [('keyword', 'var')]
+[09/14/2015 04:15:49PM] INFO - done eval: success
+[09/14/2015 04:15:49PM] INFO - Autocomplete called (JavaScript) [cplns]
+[09/14/2015 04:15:51PM] INFO - eval 'for' at ordem_servico.js#123  <Trigger 'javascript-complete-names' at 5821>
+[09/14/2015 04:15:51PM] INFO - start scope is (<Element 'scope' at 0xb423ce64>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:15:51PM] INFO - _completion_names_from_scope:: 'for', scoperef: (<Element 'scope' at 0xb423ce64>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:15:51PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb423ce64>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:15:51PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb423ce64>, ['SIGIP', 'ordem_servico', 'init'])
+[09/14/2015 04:15:51PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb423ce64>, ['SIGIP', 'ordem_servico'])
+[09/14/2015 04:15:51PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb423ce64>, ['SIGIP'])
+[09/14/2015 04:15:51PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb423ce64>, [])
+[09/14/2015 04:15:51PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb4394224>, [])
+[09/14/2015 04:15:51PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb4394224>, ['Window'])
+[09/14/2015 04:15:51PM] INFO - _completion_names_from_scope:: include everything from lib: <JavaScript curdirlib>
+[09/14/2015 04:15:51PM] INFO - _completion_names_from_scope:: include everything from lib: <JavaScript cataloglib: jQuery>
+[09/14/2015 04:15:51PM] INFO - _completion_names_from_scope:: include everything from lib: <javascript stdlib>
+[09/14/2015 04:15:51PM] INFO -     cplns: [('keyword', 'for'), ('function', 'forward')]
+[09/14/2015 04:15:51PM] INFO - done eval: success
+[09/14/2015 04:15:51PM] INFO - Autocomplete called (JavaScript) [cplns]
+[09/14/2015 04:16:01PM] INFO - eval 'con' at ordem_servico.js#124  <Trigger 'javascript-complete-names' at 5872>
+[09/14/2015 04:16:01PM] INFO - start scope is (<Element 'scope' at 0xb259bcdc>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:16:01PM] INFO - _completion_names_from_scope:: 'con', scoperef: (<Element 'scope' at 0xb259bcdc>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:16:01PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb259bcdc>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:16:01PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb259bcdc>, ['SIGIP', 'ordem_servico', 'init'])
+[09/14/2015 04:16:01PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb259bcdc>, ['SIGIP', 'ordem_servico'])
+[09/14/2015 04:16:01PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb259bcdc>, ['SIGIP'])
+[09/14/2015 04:16:01PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb259bcdc>, [])
+[09/14/2015 04:16:01PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb4394224>, [])
+[09/14/2015 04:16:01PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb4394224>, ['Window'])
+[09/14/2015 04:16:01PM] INFO - _completion_names_from_scope:: include everything from lib: <JavaScript curdirlib>
+[09/14/2015 04:16:01PM] INFO - _completion_names_from_scope:: include everything from lib: <JavaScript cataloglib: jQuery>
+[09/14/2015 04:16:01PM] INFO - _completion_names_from_scope:: include everything from lib: <javascript stdlib>
+[09/14/2015 04:16:01PM] INFO -     cplns: [('function', 'confirm'), ('keyword', 'const'), ('variable', 'content'), ('keyword', 'continue'), ('variable', 'controllers')]
+[09/14/2015 04:16:01PM] INFO - done eval: success
+[09/14/2015 04:16:01PM] INFO - Autocomplete called (JavaScript) [cplns]
+[09/14/2015 04:16:02PM] INFO - eval 'console' at ordem_servico.js#124  <Trigger 'javascript-complete-object-members' at 5880>
+[09/14/2015 04:16:02PM] INFO - start scope is (<Element 'scope' at 0xb259bcdc>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:16:02PM] INFO - find 'console' starting at (<Element 'scope' at 0xb259bcdc>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:16:02PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb259bcdc>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])? no
+[09/14/2015 04:16:02PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb259bcdc>, ['SIGIP', 'ordem_servico', 'init'])? no
+[09/14/2015 04:16:02PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb259bcdc>, ['SIGIP', 'ordem_servico'])? no
+[09/14/2015 04:16:02PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb259bcdc>, ['SIGIP'])? no
+[09/14/2015 04:16:02PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb259bcdc>, [])? no
+[09/14/2015 04:16:02PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb4394224>, [])? no
+[09/14/2015 04:16:02PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb4394224>, ['Window'])? no
+[09/14/2015 04:16:02PM] INFO - lookup 'console' in <JavaScript curdirlib>
+[09/14/2015 04:16:02PM] INFO - lookup 'console' in <JavaScript cataloglib: jQuery>
+[09/14/2015 04:16:02PM] INFO - lookup 'console' in <javascript stdlib>
+[09/14/2015 04:16:02PM] ERROR - evaluating 'console' at ordem_servico.js#124: could not resolve first part of 'console'
+[09/14/2015 04:16:02PM] INFO - done eval: eval error
+[09/14/2015 04:16:03PM] INFO - eval 'console.log' at ordem_servico.js#124  <Trigger 'javascript-calltip-call-signature' at 5884>
+[09/14/2015 04:16:03PM] INFO - start scope is (<Element 'scope' at 0xb259bcdc>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:16:03PM] INFO - find 'console' starting at (<Element 'scope' at 0xb259bcdc>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:16:03PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb259bcdc>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])? no
+[09/14/2015 04:16:03PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb259bcdc>, ['SIGIP', 'ordem_servico', 'init'])? no
+[09/14/2015 04:16:03PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb259bcdc>, ['SIGIP', 'ordem_servico'])? no
+[09/14/2015 04:16:03PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb259bcdc>, ['SIGIP'])? no
+[09/14/2015 04:16:03PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb259bcdc>, [])? no
+[09/14/2015 04:16:03PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb4394224>, [])? no
+[09/14/2015 04:16:03PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb4394224>, ['Window'])? no
+[09/14/2015 04:16:03PM] INFO - lookup 'console.log' in <JavaScript curdirlib>
+[09/14/2015 04:16:03PM] INFO - lookup 'console.log' in <JavaScript cataloglib: jQuery>
+[09/14/2015 04:16:03PM] INFO - lookup 'console.log' in <javascript stdlib>
+[09/14/2015 04:16:03PM] INFO - lookup 'console' in <JavaScript curdirlib>
+[09/14/2015 04:16:03PM] INFO - lookup 'console' in <JavaScript cataloglib: jQuery>
+[09/14/2015 04:16:03PM] INFO - lookup 'console' in <javascript stdlib>
+[09/14/2015 04:16:03PM] ERROR - evaluating 'console.log' at ordem_servico.js#124: could not resolve first part of 'console.log'
+[09/14/2015 04:16:03PM] INFO - done eval: eval error
+[09/14/2015 04:16:06PM] INFO - eval '$' at ordem_servico.js#124  <Trigger 'javascript-calltip-call-signature' at 5886>
+[09/14/2015 04:16:06PM] INFO - start scope is (<Element 'scope' at 0xb259bcdc>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:16:06PM] INFO - find '$' starting at (<Element 'scope' at 0xb259bcdc>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:16:06PM] INFO - is '$' accessible on (<Element 'scope' at 0xb259bcdc>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])? no
+[09/14/2015 04:16:06PM] INFO - is '$' accessible on (<Element 'scope' at 0xb259bcdc>, ['SIGIP', 'ordem_servico', 'init'])? no
+[09/14/2015 04:16:06PM] INFO - is '$' accessible on (<Element 'scope' at 0xb259bcdc>, ['SIGIP', 'ordem_servico'])? no
+[09/14/2015 04:16:06PM] INFO - is '$' accessible on (<Element 'scope' at 0xb259bcdc>, ['SIGIP'])? no
+[09/14/2015 04:16:06PM] INFO - is '$' accessible on (<Element 'scope' at 0xb259bcdc>, [])? no
+[09/14/2015 04:16:06PM] INFO - is '$' accessible on (<Element 'scope' at 0xb4394224>, [])? no
+[09/14/2015 04:16:06PM] INFO - is '$' accessible on (<Element 'scope' at 0xb4394224>, ['Window'])? no
+[09/14/2015 04:16:06PM] INFO - lookup '$' in <JavaScript curdirlib>
+[09/14/2015 04:16:06PM] INFO - lookup '$' in <JavaScript cataloglib: jQuery>
+[09/14/2015 04:16:06PM] INFO - found 1 hits in lib
+[09/14/2015 04:16:06PM] INFO - lookup '$' in <javascript stdlib>
+[09/14/2015 04:16:06PM] INFO - resolve 'jQuery' type inference for <Element 'variable' at 0xb28e017c>:
+[09/14/2015 04:16:06PM] INFO - find 'jQuery' starting at (<Element 'scope' at 0xb2712d4c>, [])
+[09/14/2015 04:16:06PM] INFO - is 'jQuery' accessible on (<Element 'scope' at 0xb2712d4c>, [])? yes
+[09/14/2015 04:16:06PM] INFO - _hit_from_first_part: found elem: class 'jQuery' at []
+[09/14/2015 04:16:06PM] INFO - lookup 'jQuery' in <JavaScript curdirlib>
+[09/14/2015 04:16:06PM] INFO - lookup 'jQuery' in <JavaScript cataloglib: jQuery>
+[09/14/2015 04:16:06PM] INFO - found 1 hits in lib
+[09/14/2015 04:16:06PM] INFO - lookup 'jQuery' in <javascript stdlib>
+[09/14/2015 04:16:06PM] INFO - ctor is <Element 'scope' at 0xb28bdca4>
+[09/14/2015 04:16:06PM] INFO - ctor is <Element 'scope' at 0xb28bdca4>
+[09/14/2015 04:16:06PM] INFO -     calltips: ['jQuery(callback) -> $\nBinds a function to be executed when the DOM has finished\nloading.', 'jQuery(callback) -> $\nBinds a function to be executed when the DOM has finished\nloading.']
+[09/14/2015 04:16:06PM] INFO - done eval: success
+[09/14/2015 04:16:06PM] INFO - Autocomplete called (JavaScript) [calltips]
+[09/14/2015 04:16:08PM] INFO - eval 'fir' at ordem_servico.js#124  <Trigger 'javascript-complete-names' at 5886>
+[09/14/2015 04:16:08PM] INFO - start scope is (<Element 'scope' at 0xb235cbc4>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:16:08PM] INFO - _completion_names_from_scope:: 'fir', scoperef: (<Element 'scope' at 0xb235cbc4>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:16:08PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb235cbc4>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:16:08PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb235cbc4>, ['SIGIP', 'ordem_servico', 'init'])
+[09/14/2015 04:16:08PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb235cbc4>, ['SIGIP', 'ordem_servico'])
+[09/14/2015 04:16:08PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb235cbc4>, ['SIGIP'])
+[09/14/2015 04:16:08PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb235cbc4>, [])
+[09/14/2015 04:16:08PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb4394224>, [])
+[09/14/2015 04:16:08PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb4394224>, ['Window'])
+[09/14/2015 04:16:08PM] INFO - _completion_names_from_scope:: include everything from lib: <JavaScript curdirlib>
+[09/14/2015 04:16:08PM] INFO - _completion_names_from_scope:: include everything from lib: <JavaScript cataloglib: jQuery>
+[09/14/2015 04:16:08PM] INFO - _completion_names_from_scope:: include everything from lib: <javascript stdlib>
+[09/14/2015 04:16:08PM] INFO -     cplns: []
+[09/14/2015 04:16:08PM] INFO - done eval: success
+[09/14/2015 04:16:12PM] INFO - eval 'for' at ordem_servico.js#124  <Trigger 'javascript-complete-names' at 5886>
+[09/14/2015 04:16:12PM] INFO - start scope is (<Element 'scope' at 0xb25cecdc>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:16:12PM] INFO - _completion_names_from_scope:: 'for', scoperef: (<Element 'scope' at 0xb25cecdc>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:16:12PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb25cecdc>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:16:12PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb25cecdc>, ['SIGIP', 'ordem_servico', 'init'])
+[09/14/2015 04:16:12PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb25cecdc>, ['SIGIP', 'ordem_servico'])
+[09/14/2015 04:16:12PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb25cecdc>, ['SIGIP'])
+[09/14/2015 04:16:12PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb25cecdc>, [])
+[09/14/2015 04:16:12PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb4394224>, [])
+[09/14/2015 04:16:12PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb4394224>, ['Window'])
+[09/14/2015 04:16:12PM] INFO - _completion_names_from_scope:: include everything from lib: <JavaScript curdirlib>
+[09/14/2015 04:16:12PM] INFO - _completion_names_from_scope:: include everything from lib: <JavaScript cataloglib: jQuery>
+[09/14/2015 04:16:12PM] INFO - _completion_names_from_scope:: include everything from lib: <javascript stdlib>
+[09/14/2015 04:16:12PM] INFO -     cplns: [('keyword', 'for'), ('function', 'forward')]
+[09/14/2015 04:16:12PM] INFO - done eval: success
+[09/14/2015 04:16:12PM] INFO - Autocomplete called (JavaScript) [cplns]
+[09/14/2015 04:16:14PM] INFO - eval '$()' at ordem_servico.js#124  <Trigger 'javascript-complete-object-members' at 5892>
+[09/14/2015 04:16:14PM] INFO - start scope is (<Element 'scope' at 0xb238a924>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:16:14PM] INFO - find '$' starting at (<Element 'scope' at 0xb238a924>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:16:14PM] INFO - is '$' accessible on (<Element 'scope' at 0xb238a924>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])? no
+[09/14/2015 04:16:14PM] INFO - is '$' accessible on (<Element 'scope' at 0xb238a924>, ['SIGIP', 'ordem_servico', 'init'])? no
+[09/14/2015 04:16:14PM] INFO - is '$' accessible on (<Element 'scope' at 0xb238a924>, ['SIGIP', 'ordem_servico'])? no
+[09/14/2015 04:16:14PM] INFO - is '$' accessible on (<Element 'scope' at 0xb238a924>, ['SIGIP'])? no
+[09/14/2015 04:16:14PM] INFO - is '$' accessible on (<Element 'scope' at 0xb238a924>, [])? no
+[09/14/2015 04:16:14PM] INFO - is '$' accessible on (<Element 'scope' at 0xb4394224>, [])? no
+[09/14/2015 04:16:14PM] INFO - is '$' accessible on (<Element 'scope' at 0xb4394224>, ['Window'])? no
+[09/14/2015 04:16:14PM] INFO - lookup '$' in <JavaScript curdirlib>
+[09/14/2015 04:16:14PM] INFO - lookup '$' in <JavaScript cataloglib: jQuery>
+[09/14/2015 04:16:14PM] INFO - found 1 hits in lib
+[09/14/2015 04:16:14PM] INFO - lookup '$' in <javascript stdlib>
+[09/14/2015 04:16:14PM] INFO - resolve 'jQuery' type inference for <Element 'variable' at 0xb28e017c>:
+[09/14/2015 04:16:14PM] INFO - find 'jQuery' starting at (<Element 'scope' at 0xb2712d4c>, [])
+[09/14/2015 04:16:14PM] INFO - is 'jQuery' accessible on (<Element 'scope' at 0xb2712d4c>, [])? yes
+[09/14/2015 04:16:14PM] INFO - _hit_from_first_part: found elem: class 'jQuery' at []
+[09/14/2015 04:16:14PM] INFO - lookup 'jQuery' in <JavaScript curdirlib>
+[09/14/2015 04:16:14PM] INFO - lookup 'jQuery' in <JavaScript cataloglib: jQuery>
+[09/14/2015 04:16:14PM] INFO - found 1 hits in lib
+[09/14/2015 04:16:14PM] INFO - lookup 'jQuery' in <javascript stdlib>
+[09/14/2015 04:16:14PM] INFO -     cplns: [('function', 'add'), ('function', 'addBack'), ('function', 'addClass'), ('function', 'after'), ('function', 'ajax'), ('function', 'ajaxComplete'), ('function', 'ajaxError'), ('function', 'ajaxPrefilter'), ('function', 'ajaxSend'), ('function', 'ajaxSetup'), ('function', 'ajaxStart'), ('function', 'ajaxStop'), ('function', 'ajaxSuccess'), ('function', 'ajaxTransport'), ('function', 'all'), ('function', 'andSelf'), ('function', 'animate'), ('function', 'animated'), ('function', 'append'), ('function', 'appendTo'), ('function', 'attr'), ('function', 'attributeContains'), ('function', 'attributeContainsPrefix'), ('function', 'attributeContainsWord'), ('function', 'attributeEndsWith'), ('function', 'attributeEquals'), ('function', 'attributeHas'), ('function', 'attributeMultiple'), ('function', 'attributeNotEqual'), ('function', 'attributeStartsWith'), ('function', 'before'), ('function', 'bind'), ('function', 'blur'), ('variable', 'boxModel'), ('namespace', 'browser'), ('function', 'button'), ('function', 'Callbacks'), ('function', 'change'), ('function', 'checkbox'), ('function', 'checked'), ('function', 'child'), ('function', 'children'), ('function', 'class'), ('function', 'clearQueue'), ('function', 'click'), ('function', 'clone'), ('function', 'closest'), ('function', 'contains'), ('function', 'contents'), ('variable', 'context'), ('function', 'css'), ('variable', 'cssHooks'), ('function', 'data'), ('function', 'dblclick'), ('function', 'Deferred'), ('function', 'delay'), ('function', 'delegate'), ('function', 'dequeue'), ('function', 'descendant'), ('function', 'detach'), ('function', 'die'), ('function', 'disabled'), ('function', 'each'), ('function', 'element'), ('function', 'empty'), ('function', 'enabled'), ('function', 'end'), ('function', 'eq'), ('function', 'error'), ('function', 'even'), ('function', 'extend'), ('function', 'fadeIn'), ('function', 'fadeOut'), ('function', 'fadeTo'), ('function', 'fadeToggle'), ('function', 'file'), ('function', 'filter'), ('function', 'find'), ('function', 'finish'), ('function', 'first'), ('function', 'first-child'), ('function', 'first-of-type'), ('function', 'focus'), ('function', 'focusin'), ('function', 'focusout'), ('function', 'get'), ('function', 'getJSON'), ('function', 'getScript'), ('function', 'globalEval'), ('function', 'grep'), ('function', 'gt'), ('function', 'has'), ('function', 'hasClass'), ('function', 'hasData'), ('function', 'header'), ('function', 'height'), ('function', 'hidden'), ('function', 'hide'), ('function', 'holdReady'), ('function', 'hover'), ('function', 'html'), ('function', 'id'), ('function', 'image'), ('function', 'inArray'), ('function', 'index'), ('function', 'innerHeight'), ('function', 'innerWidth'), ('function', 'input'), ('function', 'insertAfter'), ('function', 'insertBefore'), ('function', 'is'), ('function', 'isArray'), ('function', 'isEmptyObject'), ('function', 'isFunction'), ('function', 'isNumeric'), ('function', 'isPlainObject'), ('function', 'isWindow'), ('function', 'isXMLDoc'), ('function', 'jQuery'), ('variable', 'jquery'), ('function', 'keydown'), ('function', 'keypress'), ('function', 'keyup'), ('function', 'lang'), ('function', 'last'), ('function', 'last-child'), ('function', 'last-of-type'), ('variable', 'length'), ('function', 'live'), ('function', 'load'), ('function', 'lt'), ('function', 'makeArray'), ('function', 'map'), ('function', 'merge'), ('function', 'mousedown'), ('function', 'mouseenter'), ('function', 'mouseleave'), ('function', 'mousemove'), ('function', 'mouseout'), ('function', 'mouseover'), ('function', 'mouseup'), ('function', 'multiple'), ('function', 'next'), ('function', 'next adjacent'), ('function', 'next siblings'), ('function', 'nextAll'), ('function', 'nextUntil'), ('function', 'noConflict'), ('function', 'noop'), ('function', 'not'), ('function', 'now'), ('function', 'nth-child'), ('function', 'nth-last-child'), ('function', 'nth-last-of-type'), ('function', 'nth-of-type'), ('function', 'odd'), ('function', 'off'), ('function', 'offset'), ('function', 'offsetParent'), ('function', 'on'), ('function', 'one'), ('function', 'only-child'), ('function', 'only-of-type'), ('function', 'outerHeight'), ('function', 'outerWidth'), ('function', 'param'), ('function', 'parent'), ('function', 'parents'), ('function', 'parentsUntil'), ('function', 'parseHTML'), ('function', 'parseJSON'), ('function', 'parseXML'), ('function', 'password'), ('function', 'position'), ('function', 'post'), ('function', 'prepend'), ('function', 'prependTo'), ('function', 'prev'), ('function', 'prevAll'), ('function', 'prevUntil'), ('function', 'promise'), ('function', 'prop'), ('function', 'proxy'), ('function', 'pushStack'), ('function', 'queue'), ('function', 'radio'), ('function', 'ready'), ('function', 'remove'), ('function', 'removeAttr'), ('function', 'removeClass'), ('function', 'removeData'), ('function', 'removeProp'), ('function', 'replaceAll'), ('function', 'replaceWith'), ('function', 'reset'), ('function', 'resize'), ('function', 'root'), ('function', 'scroll'), ('function', 'scrollLeft'), ('function', 'scrollTop'), ('function', 'select'), ('function', 'selected'), ('variable', 'selector'), ('function', 'serialize'), ('function', 'serializeArray'), ('function', 'show'), ('function', 'siblings'), ('function', 'size'), ('function', 'slice'), ('function', 'slideDown'), ('function', 'slideToggle'), ('function', 'slideUp'), ('function', 'stop'), ('function', 'sub'), ('function', 'submit'), ('variable', 'support'), ('function', 'target'), ('function', 'text'), ('function', 'toArray'), ('function', 'toggle'), ('function', 'toggleClass'), ('function', 'trigger'), ('function', 'triggerHandler'), ('function', 'trim'), ('function', 'type'), ('function', 'unbind'), ('function', 'undelegate'), ('function', 'unique'), ('function', 'unload'), ('function', 'unwrap'), ('function', 'val'), ('function', 'visible'), ('function', 'when'), ('function', 'width'), ('function', 'wrap'), ('function', 'wrapAll'), ('function', 'wrapInner')]
+[09/14/2015 04:16:14PM] INFO - done eval: success
+[09/14/2015 04:16:14PM] INFO - Autocomplete called (JavaScript) [cplns]
+[09/14/2015 04:19:14PM] INFO - eval 'con' at ordem_servico.js#123  <Trigger 'javascript-complete-names' at 5817>
+[09/14/2015 04:19:14PM] INFO - start scope is (<Element 'scope' at 0xb228180c>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:19:14PM] INFO - _completion_names_from_scope:: 'con', scoperef: (<Element 'scope' at 0xb228180c>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:19:14PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb228180c>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:19:14PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb228180c>, ['SIGIP', 'ordem_servico', 'init'])
+[09/14/2015 04:19:14PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb228180c>, ['SIGIP', 'ordem_servico'])
+[09/14/2015 04:19:14PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb228180c>, ['SIGIP'])
+[09/14/2015 04:19:14PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb228180c>, [])
+[09/14/2015 04:19:14PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb4394224>, [])
+[09/14/2015 04:19:14PM] INFO - _completion_names_from_scope:: checking scoperef: (<Element 'scope' at 0xb4394224>, ['Window'])
+[09/14/2015 04:19:14PM] INFO - _completion_names_from_scope:: include everything from lib: <JavaScript curdirlib>
+[09/14/2015 04:19:14PM] INFO - _completion_names_from_scope:: include everything from lib: <JavaScript cataloglib: jQuery>
+[09/14/2015 04:19:14PM] INFO - _completion_names_from_scope:: include everything from lib: <javascript stdlib>
+[09/14/2015 04:19:14PM] INFO -     cplns: [('function', 'confirm'), ('keyword', 'const'), ('variable', 'content'), ('keyword', 'continue'), ('variable', 'controllers')]
+[09/14/2015 04:19:14PM] INFO - done eval: success
+[09/14/2015 04:19:14PM] INFO - Autocomplete called (JavaScript) [cplns]
+[09/14/2015 04:19:16PM] INFO - eval 'console' at ordem_servico.js#123  <Trigger 'javascript-complete-object-members' at 5825>
+[09/14/2015 04:19:16PM] INFO - start scope is (<Element 'scope' at 0xb228180c>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:19:16PM] INFO - find 'console' starting at (<Element 'scope' at 0xb228180c>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:19:16PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb228180c>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])? no
+[09/14/2015 04:19:16PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb228180c>, ['SIGIP', 'ordem_servico', 'init'])? no
+[09/14/2015 04:19:16PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb228180c>, ['SIGIP', 'ordem_servico'])? no
+[09/14/2015 04:19:16PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb228180c>, ['SIGIP'])? no
+[09/14/2015 04:19:16PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb228180c>, [])? no
+[09/14/2015 04:19:16PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb4394224>, [])? no
+[09/14/2015 04:19:16PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb4394224>, ['Window'])? no
+[09/14/2015 04:19:16PM] INFO - lookup 'console' in <JavaScript curdirlib>
+[09/14/2015 04:19:16PM] INFO - lookup 'console' in <JavaScript cataloglib: jQuery>
+[09/14/2015 04:19:16PM] INFO - lookup 'console' in <javascript stdlib>
+[09/14/2015 04:19:16PM] ERROR - evaluating 'console' at ordem_servico.js#123: could not resolve first part of 'console'
+[09/14/2015 04:19:16PM] INFO - done eval: eval error
+[09/14/2015 04:19:17PM] INFO - eval 'console.log' at ordem_servico.js#123  <Trigger 'javascript-calltip-call-signature' at 5829>
+[09/14/2015 04:19:17PM] INFO - start scope is (<Element 'scope' at 0xb228180c>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:19:17PM] INFO - find 'console' starting at (<Element 'scope' at 0xb228180c>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])
+[09/14/2015 04:19:17PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb228180c>, ['SIGIP', 'ordem_servico', 'init', '(anonymous 7)'])? no
+[09/14/2015 04:19:17PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb228180c>, ['SIGIP', 'ordem_servico', 'init'])? no
+[09/14/2015 04:19:17PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb228180c>, ['SIGIP', 'ordem_servico'])? no
+[09/14/2015 04:19:17PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb228180c>, ['SIGIP'])? no
+[09/14/2015 04:19:17PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb228180c>, [])? no
+[09/14/2015 04:19:17PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb4394224>, [])? no
+[09/14/2015 04:19:17PM] INFO - is 'console' accessible on (<Element 'scope' at 0xb4394224>, ['Window'])? no
+[09/14/2015 04:19:17PM] INFO - lookup 'console.log' in <JavaScript curdirlib>
+[09/14/2015 04:19:17PM] INFO - lookup 'console.log' in <JavaScript cataloglib: jQuery>
+[09/14/2015 04:19:17PM] INFO - lookup 'console.log' in <javascript stdlib>
+[09/14/2015 04:19:17PM] INFO - lookup 'console' in <JavaScript curdirlib>
+[09/14/2015 04:19:17PM] INFO - lookup 'console' in <JavaScript cataloglib: jQuery>
+[09/14/2015 04:19:17PM] INFO - lookup 'console' in <javascript stdlib>
+[09/14/2015 04:19:17PM] ERROR - evaluating 'console.log' at ordem_servico.js#123: could not resolve first part of 'console.log'
+[09/14/2015 04:19:17PM] INFO - done eval: eval error
+[09/14/2015 05:37:26PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/models/Taskstatus_model.php' lang: PHP
+[09/14/2015 05:37:26PM] INFO - eval 'pri' at Taskstatus_model.php#65  <Trigger 'php-complete-functions' at 1928>
+[09/14/2015 05:37:26PM] INFO - function_names_from_scope_starting_with_expr:: expr: 'pri', scoperef: (<Element 'scope' at 0xb228180c>, ['TaskStatus_model', 'getAll']) for ('locals', 'namespace', 'globals', 'imports')
+[09/14/2015 05:37:26PM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[09/14/2015 05:37:26PM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 05:37:27PM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'pri', scoperef: (<Element 'scope' at 0xb228180c>, ['TaskStatus_model', 'getAll']) for ('globals', 'imports', 'builtins')
+[09/14/2015 05:37:27PM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 05:37:27PM] INFO - class_names_from_scope_starting_with_expr:: expr: 'pri', scoperef: (<Element 'scope' at 0xb228180c>, ['TaskStatus_model', 'getAll']) for ('locals', 'namespace', 'globals', 'imports')
+[09/14/2015 05:37:27PM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[09/14/2015 05:37:27PM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 05:37:27PM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'pri', scoperef: (<Element 'scope' at 0xb228180c>, ['TaskStatus_model', 'getAll']) for ('namespace', 'globals')
+[09/14/2015 05:37:27PM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 05:37:27PM] INFO -     cplns: [('keyword', 'print'), ('function', 'printf'), ('function', 'print_r'), ('keyword', 'private')]
+[09/14/2015 05:37:27PM] INFO - done eval: success
+[09/14/2015 05:37:27PM] INFO - Autocomplete called (PHP) [cplns]
+[09/14/2015 05:37:39PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/models/Taskstatus_model.php' lang: PHP
+[09/14/2015 05:38:59PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/models/Taskstatus_model.php' lang: PHP
+[09/14/2015 05:39:00PM] INFO - eval 'pri' at Taskstatus_model.php#69  <Trigger 'php-complete-functions' at 1962>
+[09/14/2015 05:39:00PM] INFO - function_names_from_scope_starting_with_expr:: expr: 'pri', scoperef: (<Element 'scope' at 0xb228180c>, ['TaskStatus_model']) for ('locals', 'namespace', 'globals', 'imports')
+[09/14/2015 05:39:00PM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[09/14/2015 05:39:00PM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 05:39:00PM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'pri', scoperef: (<Element 'scope' at 0xb228180c>, ['TaskStatus_model']) for ('globals', 'imports', 'builtins')
+[09/14/2015 05:39:00PM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 05:39:00PM] INFO - class_names_from_scope_starting_with_expr:: expr: 'pri', scoperef: (<Element 'scope' at 0xb228180c>, ['TaskStatus_model']) for ('locals', 'namespace', 'globals', 'imports')
+[09/14/2015 05:39:00PM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[09/14/2015 05:39:00PM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 05:39:00PM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'pri', scoperef: (<Element 'scope' at 0xb228180c>, ['TaskStatus_model']) for ('namespace', 'globals')
+[09/14/2015 05:39:00PM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 05:39:00PM] INFO -     cplns: [('keyword', 'print'), ('function', 'printf'), ('function', 'print_r'), ('keyword', 'private')]
+[09/14/2015 05:39:00PM] INFO - done eval: success
+[09/14/2015 05:39:00PM] INFO - Autocomplete called (PHP) [cplns]
+[09/14/2015 05:39:05PM] INFO - eval 'pri' at Taskstatus_model.php#69  <Trigger 'php-complete-functions' at 1962>
+[09/14/2015 05:39:05PM] INFO - function_names_from_scope_starting_with_expr:: expr: 'pri', scoperef: (<Element 'scope' at 0xb25cecdc>, ['TaskStatus_model']) for ('locals', 'namespace', 'globals', 'imports')
+[09/14/2015 05:39:05PM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[09/14/2015 05:39:05PM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 05:39:05PM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'pri', scoperef: (<Element 'scope' at 0xb25cecdc>, ['TaskStatus_model']) for ('globals', 'imports', 'builtins')
+[09/14/2015 05:39:05PM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 05:39:05PM] INFO - class_names_from_scope_starting_with_expr:: expr: 'pri', scoperef: (<Element 'scope' at 0xb25cecdc>, ['TaskStatus_model']) for ('locals', 'namespace', 'globals', 'imports')
+[09/14/2015 05:39:05PM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[09/14/2015 05:39:05PM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 05:39:05PM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'pri', scoperef: (<Element 'scope' at 0xb25cecdc>, ['TaskStatus_model']) for ('namespace', 'globals')
+[09/14/2015 05:39:05PM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 05:39:05PM] INFO -     cplns: [('keyword', 'print'), ('function', 'printf'), ('function', 'print_r'), ('keyword', 'private')]
+[09/14/2015 05:39:05PM] INFO - done eval: success
+[09/14/2015 05:39:05PM] INFO - Autocomplete called (PHP) [cplns]
+[09/14/2015 05:39:09PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/models/Taskstatus_model.php' lang: PHP
+[09/14/2015 05:39:19PM] INFO - eval 'a' at Taskstatus_model.php#69  <Trigger 'php-complete-variables' at 1996>
+[09/14/2015 05:39:19PM] INFO - variable_names_from_scope_starting_with_expr:: expr: None, scoperef: (<Element 'scope' at 0xb273bae4>, ['TaskStatus_model']) for ('locals', 'builtins')
+[09/14/2015 05:39:19PM] INFO - variable_names_from_scope_starting_with_expr:: adding locals: ['_codeIgniterInstance']
+[09/14/2015 05:39:19PM] INFO -     cplns: []
+[09/14/2015 05:39:19PM] INFO - done eval: success
+[09/14/2015 05:39:20PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/models/Taskstatus_model.php' lang: PHP
+[09/14/2015 05:39:28PM] INFO - eval 'a' at Taskstatus_model.php#69  <Trigger 'php-complete-variables' at 1996>
+[09/14/2015 05:39:28PM] INFO - variable_names_from_scope_starting_with_expr:: expr: None, scoperef: (<Element 'scope' at 0xb259bcdc>, ['TaskStatus_model', '_sortAll']) for ('locals', 'builtins')
+[09/14/2015 05:39:28PM] INFO - variable_names_from_scope_starting_with_expr:: adding locals: ['arra']
+[09/14/2015 05:39:28PM] INFO -     cplns: [('variable', 'arra')]
+[09/14/2015 05:39:28PM] INFO - done eval: success
+[09/14/2015 05:39:28PM] INFO - Autocomplete called (PHP) [cplns]
+[09/14/2015 05:39:29PM] INFO - eval '_sortAll' at Taskstatus_model.php#69  <Trigger 'php-calltip-call-signature' at 1995>
+[09/14/2015 05:39:29PM] INFO - _hit_from_citdl:: expr: '_sortAll', scoperef: (<Element 'scope' at 0xb5fa4e64>, ['TaskStatus_model', '_sortAll'])
+[09/14/2015 05:39:29PM] INFO - _hit_from_citdl:: expr tokens: ['_sortAll']
+[09/14/2015 05:39:29PM] INFO - _hits_from_first_part:: find '_sortAll ...' starting at (<Element 'scope' at 0xb5fa4e64>, ['TaskStatus_model', '_sortAll']):
+[09/14/2015 05:39:29PM] INFO - _hits_from_first_part:: scoperef now (<Element 'scope' at 0xb5fa4e64>, ['TaskStatus_model', '_sortAll']):
+[09/14/2015 05:39:29PM] INFO - _return_with_hit:: hit is okay: (<Element 'scope' at 0xb235cf44>, (<Element 'scope' at 0xb5fa4e64>, ['TaskStatus_model', '_sortAll']))
+[09/14/2015 05:39:29PM] INFO - _hits_from_first_part:: pt1: is '_sortAll' accessible on (<Element 'scope' at 0xb5fa4e64>, ['TaskStatus_model', '_sortAll'])? yes: <Element 'scope' at 0xb235cf44>
+[09/14/2015 05:39:29PM] INFO - _hit_from_citdl:: found '_sortAll' => <Element 'scope' at 0xb235cf44> on (<Element 'scope' at 0xb5fa4e64>, ['TaskStatus_model', '_sortAll'])
+[09/14/2015 05:39:29PM] INFO -     calltips: ['_sortAll($arra)']
+[09/14/2015 05:39:29PM] INFO - done eval: success
+[09/14/2015 05:39:29PM] INFO - Autocomplete called (PHP) [calltips]
+[09/14/2015 05:39:29PM] INFO - eval '_sortAll' at Taskstatus_model.php#69  <Trigger 'php-calltip-call-signature' at 1995>
+[09/14/2015 05:39:29PM] INFO - _hit_from_citdl:: expr: '_sortAll', scoperef: (<Element 'scope' at 0xb228180c>, ['TaskStatus_model', '_sortAll'])
+[09/14/2015 05:39:29PM] INFO - _hit_from_citdl:: expr tokens: ['_sortAll']
+[09/14/2015 05:39:29PM] INFO - _hits_from_first_part:: find '_sortAll ...' starting at (<Element 'scope' at 0xb228180c>, ['TaskStatus_model', '_sortAll']):
+[09/14/2015 05:39:29PM] INFO - _hits_from_first_part:: scoperef now (<Element 'scope' at 0xb228180c>, ['TaskStatus_model', '_sortAll']):
+[09/14/2015 05:39:29PM] INFO - _return_with_hit:: hit is okay: (<Element 'scope' at 0xb235c8ec>, (<Element 'scope' at 0xb228180c>, ['TaskStatus_model', '_sortAll']))
+[09/14/2015 05:39:29PM] INFO - _hits_from_first_part:: pt1: is '_sortAll' accessible on (<Element 'scope' at 0xb228180c>, ['TaskStatus_model', '_sortAll'])? yes: <Element 'scope' at 0xb235c8ec>
+[09/14/2015 05:39:29PM] INFO - _hit_from_citdl:: found '_sortAll' => <Element 'scope' at 0xb235c8ec> on (<Element 'scope' at 0xb228180c>, ['TaskStatus_model', '_sortAll'])
+[09/14/2015 05:39:29PM] INFO -     calltips: ['_sortAll($arra)']
+[09/14/2015 05:39:29PM] INFO - done eval: success
+[09/14/2015 05:39:29PM] INFO - Autocomplete called (PHP) [calltips]
+[09/14/2015 05:39:30PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/models/Taskstatus_model.php' lang: PHP
+[09/14/2015 05:39:30PM] INFO - eval 'b' at Taskstatus_model.php#69  <Trigger 'php-complete-variables' at 2000>
+[09/14/2015 05:39:30PM] INFO - variable_names_from_scope_starting_with_expr:: expr: None, scoperef: (<Element 'scope' at 0xb228180c>, ['TaskStatus_model', '_sortAll']) for ('locals', 'builtins')
+[09/14/2015 05:39:30PM] INFO - variable_names_from_scope_starting_with_expr:: adding locals: ['a']
+[09/14/2015 05:39:30PM] INFO -     cplns: []
+[09/14/2015 05:39:30PM] INFO - done eval: success
+[09/14/2015 05:39:31PM] INFO - eval 'b' at Taskstatus_model.php#69  <Trigger 'php-complete-variables' at 2000>
+[09/14/2015 05:39:31PM] INFO - variable_names_from_scope_starting_with_expr:: expr: None, scoperef: (<Element 'scope' at 0xb259bcdc>, ['TaskStatus_model', '_sortAll']) for ('locals', 'builtins')
+[09/14/2015 05:39:31PM] INFO - variable_names_from_scope_starting_with_expr:: adding locals: ['a']
+[09/14/2015 05:39:31PM] INFO -     cplns: []
+[09/14/2015 05:39:31PM] INFO - done eval: success
+[09/14/2015 05:40:10PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/models/Taskstatus_model.php' lang: PHP
+[09/14/2015 05:40:11PM] INFO - eval 'arr' at Taskstatus_model.php#71  <Trigger 'php-complete-functions' at 2025>
+[09/14/2015 05:40:11PM] INFO - function_names_from_scope_starting_with_expr:: expr: 'arr', scoperef: (<Element 'scope' at 0xb5fa4e64>, ['TaskStatus_model', '_sortAll']) for ('locals', 'namespace', 'globals', 'imports')
+[09/14/2015 05:40:11PM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[09/14/2015 05:40:11PM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 05:40:11PM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'arr', scoperef: (<Element 'scope' at 0xb5fa4e64>, ['TaskStatus_model', '_sortAll']) for ('globals', 'imports', 'builtins')
+[09/14/2015 05:40:11PM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 05:40:11PM] INFO - class_names_from_scope_starting_with_expr:: expr: 'arr', scoperef: (<Element 'scope' at 0xb5fa4e64>, ['TaskStatus_model', '_sortAll']) for ('locals', 'namespace', 'globals', 'imports')
+[09/14/2015 05:40:11PM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[09/14/2015 05:40:11PM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 05:40:11PM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'arr', scoperef: (<Element 'scope' at 0xb5fa4e64>, ['TaskStatus_model', '_sortAll']) for ('namespace', 'globals')
+[09/14/2015 05:40:11PM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 05:40:11PM] INFO -     cplns: [('keyword', 'array'), ('function', 'array'), ('function', 'array_change_key_case'), ('function', 'array_chunk'), ('function', 'array_column'), ('function', 'array_combine'), ('function', 'array_count_values'), ('function', 'array_diff'), ('function', 'array_diff_assoc'), ('function', 'array_diff_key'), ('function', 'array_diff_uassoc'), ('function', 'array_diff_ukey'), ('function', 'array_fill'), ('function', 'array_fill_keys'), ('function', 'array_filter'), ('function', 'array_flip'), ('function', 'array_intersect'), ('function', 'array_intersect_assoc'), ('function', 'array_intersect_key'), ('function', 'array_intersect_uassoc'), ('function', 'array_intersect_ukey'), ('function', 'array_keys'), ('function', 'array_key_exists'), ('function', 'array_map'), ('function', 'array_merge'), ('function', 'array_merge_recursive'), ('function', 'array_multisort'), ('function', 'array_pad'), ('function', 'array_pop'), ('function', 'array_product'), ('function', 'array_push'), ('function', 'array_rand'), ('function', 'array_reduce'), ('function', 'array_replace'), ('function', 'array_replace_recursive'), ('function', 'array_reverse'), ('function', 'array_search'), ('function', 'array_shift'), ('function', 'array_slice'), ('function', 'array_splice'), ('function', 'array_sum'), ('function', 'array_udiff'), ('function', 'array_udiff_assoc'), ('function', 'array_udiff_uassoc'), ('function', 'array_uintersect'), ('function', 'array_uintersect_assoc'), ('function', 'array_uintersect_uassoc'), ('function', 'array_unique'), ('function', 'array_unshift'), ('function', 'array_values'), ('function', 'array_walk'), ('function', 'array_walk_recursive')]
+[09/14/2015 05:40:11PM] INFO - done eval: success
+[09/14/2015 05:40:11PM] INFO - Autocomplete called (PHP) [cplns]
+[09/14/2015 05:40:13PM] INFO - eval 'o' at Taskstatus_model.php#71  <Trigger 'php-complete-variables' at 2026>
+[09/14/2015 05:40:13PM] INFO - variable_names_from_scope_starting_with_expr:: expr: None, scoperef: (<Element 'scope' at 0xb27d841c>, ['TaskStatus_model', '_sortAll']) for ('locals', 'builtins')
+[09/14/2015 05:40:13PM] INFO - variable_names_from_scope_starting_with_expr:: adding locals: ['a', 'b']
+[09/14/2015 05:40:13PM] INFO -     cplns: []
+[09/14/2015 05:40:13PM] INFO - done eval: success
+[09/14/2015 05:40:24PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/models/Taskstatus_model.php' lang: PHP
+[09/14/2015 05:40:33PM] INFO - eval 'arr' at Taskstatus_model.php#71  <Trigger 'php-complete-functions' at 2039>
+[09/14/2015 05:40:33PM] INFO - function_names_from_scope_starting_with_expr:: expr: 'arr', scoperef: (<Element 'scope' at 0xb428d684>, ['TaskStatus_model', '_sortAll']) for ('locals', 'namespace', 'globals', 'imports')
+[09/14/2015 05:40:33PM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[09/14/2015 05:40:33PM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 05:40:33PM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'arr', scoperef: (<Element 'scope' at 0xb428d684>, ['TaskStatus_model', '_sortAll']) for ('globals', 'imports', 'builtins')
+[09/14/2015 05:40:33PM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 05:40:33PM] INFO - class_names_from_scope_starting_with_expr:: expr: 'arr', scoperef: (<Element 'scope' at 0xb428d684>, ['TaskStatus_model', '_sortAll']) for ('locals', 'namespace', 'globals', 'imports')
+[09/14/2015 05:40:33PM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[09/14/2015 05:40:33PM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 05:40:33PM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'arr', scoperef: (<Element 'scope' at 0xb428d684>, ['TaskStatus_model', '_sortAll']) for ('namespace', 'globals')
+[09/14/2015 05:40:33PM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 05:40:33PM] INFO -     cplns: [('keyword', 'array'), ('function', 'array'), ('function', 'array_change_key_case'), ('function', 'array_chunk'), ('function', 'array_column'), ('function', 'array_combine'), ('function', 'array_count_values'), ('function', 'array_diff'), ('function', 'array_diff_assoc'), ('function', 'array_diff_key'), ('function', 'array_diff_uassoc'), ('function', 'array_diff_ukey'), ('function', 'array_fill'), ('function', 'array_fill_keys'), ('function', 'array_filter'), ('function', 'array_flip'), ('function', 'array_intersect'), ('function', 'array_intersect_assoc'), ('function', 'array_intersect_key'), ('function', 'array_intersect_uassoc'), ('function', 'array_intersect_ukey'), ('function', 'array_keys'), ('function', 'array_key_exists'), ('function', 'array_map'), ('function', 'array_merge'), ('function', 'array_merge_recursive'), ('function', 'array_multisort'), ('function', 'array_pad'), ('function', 'array_pop'), ('function', 'array_product'), ('function', 'array_push'), ('function', 'array_rand'), ('function', 'array_reduce'), ('function', 'array_replace'), ('function', 'array_replace_recursive'), ('function', 'array_reverse'), ('function', 'array_search'), ('function', 'array_shift'), ('function', 'array_slice'), ('function', 'array_splice'), ('function', 'array_sum'), ('function', 'array_udiff'), ('function', 'array_udiff_assoc'), ('function', 'array_udiff_uassoc'), ('function', 'array_uintersect'), ('function', 'array_uintersect_assoc'), ('function', 'array_uintersect_uassoc'), ('function', 'array_unique'), ('function', 'array_unshift'), ('function', 'array_values'), ('function', 'array_walk'), ('function', 'array_walk_recursive')]
+[09/14/2015 05:40:33PM] INFO - done eval: success
+[09/14/2015 05:40:33PM] INFO - Autocomplete called (PHP) [cplns]
+[09/14/2015 05:40:35PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/models/Taskstatus_model.php' lang: PHP
+[09/14/2015 05:40:38PM] INFO - eval 'array' at Taskstatus_model.php#71  <Trigger 'php-calltip-call-signature' at 2045>
+[09/14/2015 05:40:38PM] INFO -     calltips: None
+[09/14/2015 05:40:38PM] INFO - done eval: success
+[09/14/2015 05:40:45PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/models/Taskstatus_model.php' lang: PHP
+[09/14/2015 05:40:48PM] INFO - eval 'array' at Taskstatus_model.php#71  <Trigger 'php-calltip-call-signature' at 2045>
+[09/14/2015 05:40:48PM] INFO -     calltips: None
+[09/14/2015 05:40:48PM] INFO - done eval: success
+[09/14/2015 05:40:58PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/models/Taskstatus_model.php' lang: PHP
+[09/14/2015 05:41:05PM] INFO - eval 'array' at Taskstatus_model.php#71  <Trigger 'php-calltip-call-signature' at 2045>
+[09/14/2015 05:41:05PM] INFO -     calltips: None
+[09/14/2015 05:41:05PM] INFO - done eval: success
+[09/14/2015 05:41:08PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/models/Taskstatus_model.php' lang: PHP
+[09/14/2015 05:41:12PM] INFO - eval 'array' at Taskstatus_model.php#71  <Trigger 'php-calltip-call-signature' at 2045>
+[09/14/2015 05:41:12PM] INFO -     calltips: None
+[09/14/2015 05:41:12PM] INFO - done eval: success
+[09/14/2015 05:41:18PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/models/Taskstatus_model.php' lang: PHP
+[09/14/2015 05:41:20PM] INFO - eval 'array' at Taskstatus_model.php#71  <Trigger 'php-calltip-call-signature' at 2045>
+[09/14/2015 05:41:20PM] INFO -     calltips: None
+[09/14/2015 05:41:20PM] INFO - done eval: success
+[09/14/2015 05:41:44PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/models/Taskstatus_model.php' lang: PHP
+[09/14/2015 05:47:54PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/models/Taskstatus_model.php' lang: PHP
+[09/14/2015 05:47:54PM] INFO - eval 'uas' at Taskstatus_model.php#65  <Trigger 'php-complete-functions' at 1928>
+[09/14/2015 05:47:54PM] INFO - function_names_from_scope_starting_with_expr:: expr: 'uas', scoperef: (<Element 'scope' at 0xb22cdd84>, ['TaskStatus_model', 'getAll']) for ('locals', 'namespace', 'globals', 'imports')
+[09/14/2015 05:47:54PM] INFO - function_names_from_scope_starting_with_expr:: adding locals: []
+[09/14/2015 05:47:54PM] INFO - function_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 05:47:54PM] INFO - constant_names_from_scope_starting_with_expr:: expr: 'uas', scoperef: (<Element 'scope' at 0xb22cdd84>, ['TaskStatus_model', 'getAll']) for ('globals', 'imports', 'builtins')
+[09/14/2015 05:47:54PM] INFO - constant_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 05:47:54PM] INFO - class_names_from_scope_starting_with_expr:: expr: 'uas', scoperef: (<Element 'scope' at 0xb22cdd84>, ['TaskStatus_model', 'getAll']) for ('locals', 'namespace', 'globals', 'imports')
+[09/14/2015 05:47:54PM] INFO - class_names_from_scope_starting_with_expr:: adding locals: []
+[09/14/2015 05:47:54PM] INFO - class_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 05:47:54PM] INFO - namespace_names_from_scope_starting_with_expr:: expr: 'uas', scoperef: (<Element 'scope' at 0xb22cdd84>, ['TaskStatus_model', 'getAll']) for ('namespace', 'globals')
+[09/14/2015 05:47:54PM] INFO - namespace_names_from_scope_starting_with_expr:: adding globals: []
+[09/14/2015 05:47:54PM] INFO -     cplns: [('function', 'uasort')]
+[09/14/2015 05:47:54PM] INFO - done eval: success
+[09/14/2015 05:47:54PM] INFO - Autocomplete called (PHP) [cplns]
+[09/14/2015 05:47:58PM] INFO - eval 'd' at Taskstatus_model.php#65  <Trigger 'php-complete-variables' at 1936>
+[09/14/2015 05:47:58PM] INFO - variable_names_from_scope_starting_with_expr:: expr: None, scoperef: (<Element 'scope' at 0xb5fa4e64>, ['TaskStatus_model', 'getAll']) for ('locals', 'builtins')
+[09/14/2015 05:47:58PM] INFO - variable_names_from_scope_starting_with_expr:: adding locals: ['taskStatus', 'query', 'taskStatuses']
+[09/14/2015 05:47:58PM] INFO -     cplns: []
+[09/14/2015 05:47:58PM] INFO - done eval: success
+[09/14/2015 05:47:59PM] INFO - eval 'uasort' at Taskstatus_model.php#65  <Trigger 'php-calltip-call-signature' at 1935>
+[09/14/2015 05:47:59PM] INFO - _hit_from_citdl:: expr: 'uasort', scoperef: (<Element 'scope' at 0xb439448c>, ['TaskStatus_model', 'getAll'])
+[09/14/2015 05:47:59PM] INFO - _hit_from_citdl:: expr tokens: ['uasort']
+[09/14/2015 05:47:59PM] INFO - _hits_from_first_part:: find 'uasort ...' starting at (<Element 'scope' at 0xb439448c>, ['TaskStatus_model', 'getAll']):
+[09/14/2015 05:47:59PM] INFO - _hits_from_first_part:: scoperef now (<Element 'scope' at 0xb439448c>, ['TaskStatus_model', 'getAll']):
+[09/14/2015 05:47:59PM] INFO - _hits_from_first_part:: checking namespace aliases
+[09/14/2015 05:47:59PM] INFO - _hits_from_first_part:: pt3: is 'uasort' accessible on (<Element 'scope' at 0xb439448c>, ['TaskStatus_model', 'getAll'])? no
+[09/14/2015 05:47:59PM] INFO - _hits_from_first_part:: scoperef now (<Element 'scope' at 0xb439448c>, []):
+[09/14/2015 05:47:59PM] INFO - _hits_from_first_part:: checking namespace aliases
+[09/14/2015 05:47:59PM] INFO - _hits_from_first_part:: pt3: is 'uasort' accessible on (<Element 'scope' at 0xb439448c>, [])? no
+[09/14/2015 05:47:59PM] INFO - _hit_from_elem_imports:: trying import everything: tokens: ['uasort']
+[09/14/2015 05:47:59PM] INFO - _hit_from_elem_imports:: trying with lpath: ('uasort',)
+[09/14/2015 05:47:59PM] INFO - _hit_from_elem_imports:: ie: lookup ('uasort',) in <PHP curdirlib> => []
+[09/14/2015 05:47:59PM] INFO - _hit_from_elem_imports:: ie: lookup ('uasort',) in <PHP extradirslib> => []
+[09/14/2015 05:47:59PM] INFO - _hit_from_elem_imports:: ie: lookup ('uasort',) in <PHP cataloglib: > => []
+[09/14/2015 05:47:59PM] INFO - _hit_from_elem_imports:: ie: lookup ('uasort',) in <php-5.4 stdlib> => [(<Element 'scope' at 0xb2401d14>, (<Element 'scope' at 0xb235cdf4>, []))]
+[09/14/2015 05:47:59PM] INFO - _hit_from_elem_imports:: ie: matched ('uasort',) to <Element 'scope' at 0xb2401d14> in blob <Element 'scope' at 0xb235cdf4>
+[09/14/2015 05:47:59PM] INFO - _return_with_hit:: hit is okay: (<Element 'scope' at 0xb2401d14>, (<Element 'scope' at 0xb235cdf4>, []))
+[09/14/2015 05:47:59PM] INFO - _return_with_hit:: hit is okay: (<Element 'scope' at 0xb2401d14>, (<Element 'scope' at 0xb235cdf4>, []))
+[09/14/2015 05:47:59PM] INFO - _hits_from_first_part:: pt4: is 'uasort' accessible on (<Element 'scope' at 0xb439448c>, [])? yes, imported: <Element 'scope' at 0xb2401d14>
+[09/14/2015 05:47:59PM] INFO - _hit_from_citdl:: found 'uasort' => <Element 'scope' at 0xb2401d14> on (<Element 'scope' at 0xb235cdf4>, [])
+[09/14/2015 05:47:59PM] INFO -     calltips: ['uasort(array array_arg, string cmp_function)\nSort an array with a user-defined comparison function\nand maintain index association']
+[09/14/2015 05:47:59PM] INFO - done eval: success
+[09/14/2015 05:47:59PM] INFO - Autocomplete called (PHP) [calltips]
+[09/14/2015 05:48:00PM] INFO - eval 'uasort' at Taskstatus_model.php#65  <Trigger 'php-calltip-call-signature' at 1935>
+[09/14/2015 05:48:00PM] INFO - _hit_from_citdl:: expr: 'uasort', scoperef: (<Element 'scope' at 0xb22af764>, ['TaskStatus_model', 'getAll'])
+[09/14/2015 05:48:00PM] INFO - _hit_from_citdl:: expr tokens: ['uasort']
+[09/14/2015 05:48:00PM] INFO - _hits_from_first_part:: find 'uasort ...' starting at (<Element 'scope' at 0xb22af764>, ['TaskStatus_model', 'getAll']):
+[09/14/2015 05:48:00PM] INFO - _hits_from_first_part:: scoperef now (<Element 'scope' at 0xb22af764>, ['TaskStatus_model', 'getAll']):
+[09/14/2015 05:48:00PM] INFO - _hits_from_first_part:: checking namespace aliases
+[09/14/2015 05:48:00PM] INFO - _hits_from_first_part:: pt3: is 'uasort' accessible on (<Element 'scope' at 0xb22af764>, ['TaskStatus_model', 'getAll'])? no
+[09/14/2015 05:48:00PM] INFO - _hits_from_first_part:: scoperef now (<Element 'scope' at 0xb22af764>, []):
+[09/14/2015 05:48:00PM] INFO - _hits_from_first_part:: checking namespace aliases
+[09/14/2015 05:48:00PM] INFO - _hits_from_first_part:: pt3: is 'uasort' accessible on (<Element 'scope' at 0xb22af764>, [])? no
+[09/14/2015 05:48:00PM] INFO - _hit_from_elem_imports:: trying import everything: tokens: ['uasort']
+[09/14/2015 05:48:00PM] INFO - _hit_from_elem_imports:: trying with lpath: ('uasort',)
+[09/14/2015 05:48:00PM] INFO - _hit_from_elem_imports:: ie: lookup ('uasort',) in <PHP curdirlib> => []
+[09/14/2015 05:48:00PM] INFO - _hit_from_elem_imports:: ie: lookup ('uasort',) in <PHP extradirslib> => []
+[09/14/2015 05:48:00PM] INFO - _hit_from_elem_imports:: ie: lookup ('uasort',) in <PHP cataloglib: > => []
+[09/14/2015 05:48:00PM] INFO - _hit_from_elem_imports:: ie: lookup ('uasort',) in <php-5.4 stdlib> => [(<Element 'scope' at 0xb2401d14>, (<Element 'scope' at 0xb235cdf4>, []))]
+[09/14/2015 05:48:00PM] INFO - _hit_from_elem_imports:: ie: matched ('uasort',) to <Element 'scope' at 0xb2401d14> in blob <Element 'scope' at 0xb235cdf4>
+[09/14/2015 05:48:00PM] INFO - _return_with_hit:: hit is okay: (<Element 'scope' at 0xb2401d14>, (<Element 'scope' at 0xb235cdf4>, []))
+[09/14/2015 05:48:00PM] INFO - _return_with_hit:: hit is okay: (<Element 'scope' at 0xb2401d14>, (<Element 'scope' at 0xb235cdf4>, []))
+[09/14/2015 05:48:00PM] INFO - _hits_from_first_part:: pt4: is 'uasort' accessible on (<Element 'scope' at 0xb22af764>, [])? yes, imported: <Element 'scope' at 0xb2401d14>
+[09/14/2015 05:48:00PM] INFO - _hit_from_citdl:: found 'uasort' => <Element 'scope' at 0xb2401d14> on (<Element 'scope' at 0xb235cdf4>, [])
+[09/14/2015 05:48:00PM] INFO -     calltips: ['uasort(array array_arg, string cmp_function)\nSort an array with a user-defined comparison function\nand maintain index association']
+[09/14/2015 05:48:00PM] INFO - done eval: success
+[09/14/2015 05:48:00PM] INFO - Autocomplete called (PHP) [calltips]
+[09/14/2015 05:48:05PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/models/Taskstatus_model.php' lang: PHP
+[09/14/2015 06:32:46PM] INFO - scan_purelang: path: '/var/www/sigiprc/application/views/ordens_servico/index.php' lang: HTML
